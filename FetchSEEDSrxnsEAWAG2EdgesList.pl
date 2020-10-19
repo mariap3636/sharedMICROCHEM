@@ -8,6 +8,7 @@
 # it is meant to generate edge list for igraph function 
 # add a check to see if a reac id in eawag can have more than one pair of compounds associated 
 # with the same reac id
+# example command line: "perl FetchSEEDSrxnsEAWAG2EdgesList.pl r1210"
 # 19-10-20
 # Author: Maria Persico
 # 
