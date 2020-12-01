@@ -1,6 +1,6 @@
 #!/bin/bash
 
-python3 script_for_eawag01_04_for_testing.py
+python3 script_for_eawag01_03.py
 
 for i in $( ls -d */); do
 ONE=`echo $i | cut -d'/' -f1`
