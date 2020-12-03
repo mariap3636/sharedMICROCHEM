@@ -16,12 +16,12 @@ for line in f:
     list = []
 
     try:
-        simcomp_out1 = open(cmp1 + "_simcompOut.txt")
+        simcomp_out1 = open(cmp1 + "_simcompOut.txt", "r")
     except:
         print("ERROR: the compound: " + cmp1 + " doesn't have a simcompOut.txt file")
         simcomp_out1 = None
     try:
-        simcomp_out2 = open(cmp2 + "_simcompOut.txt")
+        simcomp_out2 = open(cmp2 + "_simcompOut.txt", "r")
     except:
         print("ERROR: the compound: " + cmp2 + " doesn't have a simcompOut.txt file")
         simcomp_out2 = None
@@ -40,7 +40,7 @@ for line in f:
             list.append(string1)
         except:
             cutcom = "curl -F smiles='"
-            htmlfile = codecs.open(cmp1 + '.html', "r")
+            htmlfile = codecs.open(cmp1 + '.html', "r", "utf-8")
             for line2 in htmlfile:
                 if "SMILES" in line2:
                     smiles = line2[line2.find("SMILES String:") + 15:line2.find("<p>")]
@@ -86,7 +86,7 @@ for line in f:
             cutcom1 = "curl -F smiles='"
             cutcom2 = "' -F cutoff=0.60 -F limit=10 http://rest.genome.jp/simcomp/"
 
-            htmlfile = codecs.open(cmp2 + '.html', "r")
+            htmlfile = codecs.open(cmp2 + '.html', "r", "utf-8")
             for line2 in htmlfile:
                 if "SMILES" in line2:
                     smiles = line2[line2.find("SMILES String:") + 15:line2.find("<p>")]
@@ -112,9 +112,11 @@ for line in f:
         list.append("")
 
     list_of_newcolumns[cmp1+cmp2] = list
+    simcomp_out1.close()
+    simcomp_out2.close()
 csvfile.close()
 
-name = str(os.getcwd()).split('/')[-1]
+name = str(os.getcwd()).split('/')[-1].split('_')[0]
 
 def testPropertyOfLine(list):
     assert len(list) >= 3
