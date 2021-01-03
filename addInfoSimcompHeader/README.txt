@@ -1,5 +1,8 @@
-Updated version of addInfoSimcompWithHeader.py script:
+v4:
+ - script modified so it doesn't include kegg compounds with cutoff lower than 0.9 in the abb_new.csv files
+ - cutoff between 0.9 - 0.6 is still written in the _simComp.txt files
 
+v2:
  - in the first round running this script, it controls every _simComp.txt file and if its empty, script looks for another kegg id for cutoff 0.6
 
  - if another kegg id is found, script writes this kegg id into the _simComp.txt file with the cutoff and in the second round running this script, it doesnt need to search again

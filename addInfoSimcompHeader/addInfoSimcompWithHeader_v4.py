@@ -30,9 +30,14 @@ for line in f:
     if simcomp_out1 is not None:
         try:
             smilepe = simcomp_out1.readline().split()
-            list.append(smilepe[0])
             if "1.0" not in smilepe[1]:
+                if float(smilepe[1]) >= 0.9:
+                    list.append(smilepe[0])
+                else:
+                    list.append("")
                 print("Compound: " + cmp1 + " has kegg ID only with cutoff=" + smilepe[1])
+            else:
+                list.append(smilepe[0])
             string1 = ""
             for line2 in simcomp_out1:
                 string1 = string1 + (line2.split()[0]) + ";"
@@ -55,7 +60,7 @@ for line in f:
             output = os.popen(cutcom).read()
 
             if output:
-                list.append(output.split()[0])
+                list.append("")
                 list.append("")
                 print("Compound: " + cmp1 + " has kegg ID only with cutoff=" + output.split()[1])
                 simcomp_out1.close()
@@ -63,7 +68,7 @@ for line in f:
                 simcomp_out1.write(output.split()[0] + "\t" + output.split()[1])
                 simcomp_out1.close()
             else:
-                list.append("NA_eawagCMPid")
+                list.append("")
                 list.append("")
     else:
         print("Some serious error: for compound: " + cmp1 + " missing the _simcompOut.txt file!")
@@ -74,9 +79,14 @@ for line in f:
     if simcomp_out2 is not None:
         try:
             smilepe = simcomp_out2.readline().split()
-            list.append(smilepe[0])
             if "1.0" not in smilepe[1]:
+                if float(smilepe[1]) >= 0.9:
+                    list.append(smilepe[0])
+                else:
+                    list.append("")
                 print("Compound: " + cmp2 + " has kegg ID only with cutoff=" + smilepe[1])
+            else:
+                list.append(smilepe[0])
             string2 = ""
             for line2 in simcomp_out2:
                 string2 = string2 + (line2.split()[0]) + ";"
@@ -96,7 +106,7 @@ for line in f:
             output = os.popen(command).read()
 
             if output:
-                list.append(output.split()[0])
+                list.append("")
                 list.append("")
                 print("Compound: " + cmp2 + " has kegg ID only with cutoff=" + output.split()[1])
                 simcomp_out2.close()
@@ -168,17 +178,14 @@ for line in fold:
         list_for_newfile.append(item)
     list_newfile.append(list_for_newfile)
 
-with open('newoutput.csv', 'w') as f:
+if os.path.exists(name + "_new.csv"):
+    os.remove(name + "_new.csv")
+
+with open(name + '_new.csv', 'w') as f:
     wr = csv.writer(f,delimiter='\t')
     wr.writerows(list_newfile)
 
-
-## repair  -- write directly into csv file
-#for row in list_newfile:
-#    fnew.write("{: <6} {: <12} {: <12} {: <11} {: <12} {: <16} {: <21} {: <16} {: <21}\n".format(*row))
-
 f.close()
 fold.close()
-os.rename('newoutput.csv', name+"_new.csv")
 print('Successfuly added new kegg columns')
 

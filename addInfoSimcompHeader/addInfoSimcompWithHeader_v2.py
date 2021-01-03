@@ -161,7 +161,7 @@ for line in fold:
         print("Some serious error in file: " + name + " missing compounds/reaction ID")
         n = len(list_for_newfile)
         for i in range(5-n,5):
-            list.append("")
+            list_for_newfile.append("")
 
 
     for item in list_of_newcolumns[id]:
