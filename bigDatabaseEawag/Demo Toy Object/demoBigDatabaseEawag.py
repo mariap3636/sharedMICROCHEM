@@ -153,9 +153,11 @@ def findBySmiles(res):
         raise RuntimeError("some error in arguments")
     curs.execute(find_query, (smiles,))
     re = curs.fetchall()
-    for item in re:
-        print(*item)
-
+    if len(re) > 0:
+    	for item in re:
+        	print(*item)
+    else:
+    	print("No compound with this smile in db")
 
 
 def openDb():
