@@ -1,0 +1,684 @@
+Supplementary Data 1: Inhibitors: Detailed information of all inhibitors of the inhibition network												
+Abbreviation	Recon2Name	UniqueID	Degree in inhibition network	Database Names	KEGG Compound Type	PubChem CID	PubChem SID	HMDB	HMDB Kingdom	HMDB superClass	HMDB class	HMDB subClass
+atp	atp	C00002	167	ATP	Nucleic acids!Vitamins and Cofactors	5957	3304	HMDB00538	Organic Compounds	Nucleosides, Nucleotides, and Analogues	Purine Nucleotides	Purine Ribonucleotides
+pi	phosphate	C00009	117	Orthophosphate		1004	3311	HMDB01429	Inorganic Compounds	Others	Non-metal Oxoanionic Compounds	Non-metal Phosphates
+gdp	gdp	C00035	61	GDP	Nucleic acids	8977	3337	HMDB01201	Organic Compounds	Nucleosides, Nucleotides, and Analogues	Purine Nucleotides	Purine Ribonucleotides
+gtp	gtp	C00044	70	GTP	Nucleic acids	6830	3346	HMDB01273	Organic Compounds	Nucleosides, Nucleotides, and Analogues	Purine Nucleotides	Purine Ribonucleotides
+nad	nicotinamide adenine dinucleotide	C00003	53	NAD+	Vitamins and Cofactors	5893	3305	HMDB00902	Organic Compounds	Nucleosides, Nucleotides, and Analogues	Purine Nucleotides	Purine Ribonucleotides
+nadh	nicotinamide adenine dinucleotide _ reduced	C00004	62	NADH		439153	3306	HMDB01487	Organic Compounds	Nucleosides, Nucleotides, and Analogues	Purine Nucleotides	Purine Ribonucleotides
+nadph	nicotinamide adenine dinucleotide phosphate _ reduced	C00005	47	NADPH		5884	3307	HMDB00221	Organic Compounds	Nucleosides, Nucleotides, and Analogues	Purine Nucleotides	Purine Ribonucleotides
+adp	adp	C00008	145	ADP	Nucleic acids	6022	3310	HMDB01341	Organic Compounds	Nucleosides, Nucleotides, and Analogues	Purine Nucleotides	Purine Ribonucleotides
+amp	amp	C00020	124	AMP	Nucleic acids	6083	3322	HMDB00045	Organic Compounds	Nucleosides, Nucleotides, and Analogues	Purine Nucleotides	Purine Ribonucleotides
+pyr	pyruvate	C00022	45	Pyruvate	Organic acids	1060	3324	HMDB00243	Organic Compounds	Organic Acids and Derivatives	Keto-Acids and Derivatives	Alpha Keto-Acids and Derivatives
+glu_L	l_glutamate	C00025	41	L-Glutamate	Peptides!Hormones and transmitters	33032	3327	HMDB00148	Organic Compounds	Amino Acids, Peptides, and Analogues	Amino Acids and Derivatives	Alpha Amino Acids and Derivatives
+oaa	oxaloacetate	C00036	37	Oxaloacetate	Organic acids	970	3338	HMDB00223	Organic Compounds	Organic Acids and Derivatives	Carboxylic Acids and Derivatives	Dicarboxylic Acids and Derivatives
+gly	glycine	C00037	19	Glycine	Peptides!Hormones and transmitters	750	3339	HMDB00123	Organic Compounds	Amino Acids, Peptides, and Analogues	Amino Acids and Derivatives	Alpha Amino Acids and Derivatives
+ala_L	l_alanine	C00041	18	L-Alanine	Peptides	5950	3343	HMDB00161	Organic Compounds	Amino Acids, Peptides, and Analogues	Amino Acids and Derivatives	Alpha Amino Acids and Derivatives
+ser_L	l_serine	C00065	14	L-Serine	Peptides	5951	3365	HMDB00187	Organic Compounds	Amino Acids, Peptides, and Analogues	Amino Acids and Derivatives	Alpha Amino Acids and Derivatives
+ascb_L	l_ascorbate	C00072	45	Ascorbate	Vitamins and Cofactors	54670067	3372	HMDB00044	Organic Compounds	Others	Dihydrofurans	Furanones
+pep	phosphoenolpyruvate	C00074	24	Phosphoenolpyruvate		1005	3374	HMDB00263	Organic Compounds	Aliphatic Acyclic Compounds	Organic Oxoanionic Compounds	Organic Phosphites
+urea	urea	C00086	76	Urea		1176	3386	HMDB00294	Organic Compounds	Aliphatic Acyclic Compounds	Ureas	N/A
+g6p	d_glucose 6_phosphate	C00092	29	D-Glucose 6-phosphate		5958	3392	HMDB01401	Organic Compounds	Carbohydrates and Carbohydrate Conjugates	Monosaccharides	Hexoses
+dhap	dihydroxyacetone phosphate	C00111	11	Glycerone phosphate		668	3411	HMDB01473	Organic Compounds	Others	Organic Phosphoric Acids and Derivatives	Organophosphate Esters
+cit	citrate	C00158	65	Citrate	Organic acids	311	3458	HMDB00094	Organic Compounds	Organic Acids and Derivatives	Carboxylic Acids and Derivatives	Tricarboxylic Acids and Derivatives
+lac_L	l_lactate	C00186	4	(S)-Lactate		107689	3486	HMDB00190	Organic Compounds	Organic Acids and Derivatives	Hydroxy Acids and Derivatives	Alpha Hydroxy Acids and Derivatives
+3pg	3_phospho_d_glycerate	C00197	19	3-Phospho-D-glycerate		439183	3497	HMDB60180	Organic Compounds	Others	Carbohydrates and Carbohydrate Conjugates	Sugar Acids and Derivatives
+oxa	oxalate	C00209	26	Oxalate	Organic acids	971	3509	HMDB02329	Organic Compounds	Organic Acids and Derivatives	Carboxylic Acids and Derivatives	Dicarboxylic Acids and Derivatives
+lac_D	d_lactate	C00256	5	(R)-Lactate	Organic acids	61503	3555	HMDB01311	Organic Compounds	Organic Acids and Derivatives	Hydroxy Acids and Derivatives	Alpha Hydroxy Acids and Derivatives
+icit	isocitrate	C00311	15	Isocitrate	Organic acids	1198	3605	HMDB00193	Organic Compounds	Organic Acids and Derivatives	Carboxylic Acids and Derivatives	Tricarboxylic Acids and Derivatives
+6pgc	6_phospho_d_gluconate	C00345	14	6-Phospho-D-gluconate		91493	3638	HMDB01316	Organic Compounds	Carbohydrates and Carbohydrate Conjugates	Sugar Acids and Derivatives	N/A
+fdp	d_fructose 1,6_bisphosphate	C00354	25	D-Fructose 1,6-bisphosphate		172313	3647	HMDB01058	Organic Compounds	Carbohydrates and Carbohydrate Conjugates	Monosaccharides	Pentoses
+dnad	deamino_nad+	C00857	6	Deamino-NAD+		165491	4114	HMDB01179	Organic Compounds	Nucleosides, Nucleotides, and Analogues	Purine Nucleotides	Purine Ribonucleotides
+HC00900	Methylmalonate	C02170	2	Methylmalonate		487	5245	HMDB00202	Organic Compounds	Organic Acids and Derivatives	Carboxylic Acids and Derivatives	Dicarboxylic Acids and Derivatives
+ps_hs	phosphatidylserine (homo sapiens)	C02737	20	Phosphatidylserine	Lipids		5698	HMDB00614	Organic Compounds	Lipids	Glycerophospholipids	Glycerophosphoserines
+clpn_hs	cardiolipin (homo sapiens)	C05980	15	Cardiolipin	Lipids		8259	NA		Others		
+akg	2_oxoglutarate	C00026	47	2-Oxoglutarate	Organic acids	51	3328	HMDB00208	Organic Compounds	Organic Acids and Derivatives	Keto-Acids and Derivatives	Gamma Keto-Acids and Derivatives
+h2o2	hydrogen peroxide	C00027	65	Hydrogen peroxide		784	3329	HMDB03125	Inorganic Compounds	Others	Non-metal Oxoanionic Compounds	Non-metal Superoxides
+succ	succinate	C00042	44	Succinate	Organic acids	1110	3344	HMDB00254	Organic Compounds	Organic Acids and Derivatives	Carboxylic Acids and Derivatives	Dicarboxylic Acids and Derivatives
+glx	glyoxylate	C00048	27	Glyoxylate	Organic acids	760	3350	HMDB00119	Organic Compounds	Organic Acids and Derivatives	Carboxylic Acids and Derivatives	Carboxylic Acid Derivatives
+gthrd	reduced glutathione	C00051	70	Glutathione	Vitamins and Cofactors	124886	3353	HMDB00125	Organic Compounds	Amino Acids, Peptides, and Analogues	Peptides	N/A
+acald	acetaldehyde	C00084	18	Acetaldehyde		177	3384	HMDB00990	Organic Compounds	Aliphatic Acyclic Compounds	Carbonyl Compounds	Aldehydes
+succoa	succinyl_coa	C00091	12	Succinyl-CoA		92133	3391	HMDB01022	Organic Compounds	Lipids	Fatty Acid Esters	Acyl CoAs
+3mob	3_methyl_2_oxobutanoate	C00141	7	3-Methyl-2-oxobutanoic acid	Organic acids	49	3441	HMDB00019	Organic Compounds	Lipids	Fatty Acids and Conjugates	Branched Fatty Acids
+pmtcoa	palmitoyl_coa (n_c16:0coa)	C00154	37	Palmitoyl-CoA		644109	3454	HMDB01338	Organic Compounds	Lipids	Fatty Acid Esters	Acyl CoAs
+4mop	4_methyl_2_oxopentanoate	C00233	6	4-Methyl-2-oxopentanoate	Organic acids	70	3532	HMDB00695	Organic Compounds	Lipids	Fatty Acids and Conjugates	Branched Fatty Acids
+nh4	ammonium	C01342	33	NH4+		223	4547	HMDB41827	Inorganic Compounds	Others	Other Non-metal Organides	Other Non-metal Hydrides
+phytcoa	phytanyl coa	C02060	1	Phytanoyl-CoA		60210075	5149	HMDB01359	Organic Compounds	Lipids	Fatty Acid Esters	Acyl CoAs
+C09642	(-)-Salsolinol	C09642	3	(-)-Salsolinol		91588	11832	HMDB05199	Organic Compounds	Aromatic Cyclic Compounds	Isoquinolines	N/A
+CE4633	hypochlorous acid	C19697	1	Hypochlorous acid		24341	135626165	HMDB59650	Inorganic Compounds	Others	Non-metal Oxoanionic Compounds	Non-metal Hypochlorites
+CE2006	4-hydroxy-2-nonenal	HMDB04362	10	4-Hydroxynonenal		3758852	5283344	HMDB04362	Organic Compounds	Lipids	Fatty Alcohols	N/A
+nadp	nicotinamide adenine dinucleotide phosphate	C00006	46	NADP+	Vitamins and Cofactors	5886	3308	HMDB00217	Organic Compounds	Nucleosides, Nucleotides, and Analogues	Purine Nucleotides	Purine Ribonucleotides
+coa	coenzyme a	C00010	47	CoA	Vitamins and Cofactors	87642	3312	HMDB01423	Organic Compounds	Nucleosides, Nucleotides, and Analogues	Purine Nucleotides	Purine Ribonucleotides
+pydx5p	pyridoxal 5_phosphate	C00018	58	Pyridoxal phosphate	Vitamins and Cofactors	1051	3320	HMDB01491	Organic Compounds	Aromatic Cyclic Compounds	Pyridines and Derivatives	Pyridine Carboxaldehydes
+cys_L	l_cysteine	C00097	52	L-Cysteine	Peptides	5862	3397	NA		Others		
+meoh	methanol	C00132	32	Methanol		887	3432	HMDB01875	Organic Compounds	Aliphatic Acyclic Compounds	Alcohols and Polyols	Primary Alcohols
+acetone	acetone	C00207	20	Acetone		180	3507	HMDB01659	Organic Compounds	Aliphatic Acyclic Compounds	Carbonyl Compounds	Ketones
+dtt	dithiothreitol	C00265	93	Dithiothreitol		439196	3563	HMDB03156	Organic Compounds	Aliphatic Acyclic Compounds	Alcohols and Polyols	Secondary Alcohols
+andrstndn	androstenedione	C00280	7	Androstenedione	Steroids!Hormones and transmitters	6128	3575	HMDB00053	Organic Compounds	Lipids	Steroids and Steroid Derivatives	Androgens and Derivatives
+retinal	retinal	C00376	3	Retinal		638015	3666	HMDB01358	Organic Compounds	Lipids	Prenol Lipids	Retinoids
+etoh	ethanol	C00469	49	Ethanol		702	3752	HMDB00108	Organic Compounds	Aliphatic Acyclic Compounds	Alcohols and Polyols	Primary Alcohols
+no	nitric oxide	C00533	19	Nitric oxide		145068	3815	HMDB03378	Inorganic Compounds	Others	Other Non-metal Organides	Other Non-metal Oxides
+tststerone	testosterone	C00535	16	Testosterone	Steroids!Hormones and transmitters	6013	3817	HMDB00234	Organic Compounds	Lipids	Steroids and Steroid Derivatives	Androgens and Derivatives
+retn	retinoate	C00777	7	Retinoate		444795	4038	HMDB01852	Organic Compounds	Lipids	Prenol Lipids	Retinoids
+4nph	4_nitrophenol	C00870	10	4-Nitrophenol		980	4127	HMDB01232	Organic Compounds	Aromatic Cyclic Compounds	Phenols and Derivatives	Nitrophenols and Derivatives
+34dhcinm	3,4_dihydroxy_trans_cinnamate	C01197	17	Caffeate		689043	4422	HMDB03501	Organic Compounds	Aromatic Cyclic Compounds	Cinnamic Acid Derivatives	Hydroxycinnamic Acid Derivatives
+iodine	iodine	C01382	17	Iodine		807	4577	HMDB00675	Inorganic Compounds	Others	Homogeneous Halogens	N/A
+cysam	cysteamine	C01678	12	Cysteamine	Peptides	6058	4821	HMDB02991	Organic Compounds	Aliphatic Acyclic Compounds	Thiols	Alkylthiols
+HC02176	laurate	C02679	8	Dodecanoic acid	Lipids	3893	5649	HMDB00638	Organic Compounds	Lipids	Fatty Acids and Conjugates	Straight Chain Fatty Acids
+5adtststerone	5alpha_dihydrotestosterone	C03917	5	Dihydrotestosterone	Steroids!Hormones and transmitters	10635	6646	HMDB02961	Organic Compounds	Lipids	Steroids and Steroid Derivatives	Androgens and Derivatives
+octa	octanoate (n_c8:0)	C06423	5	Octanoic acid	Organic acids!Lipids	379	8658	HMDB00482	Organic Compounds	Lipids	Fatty Acids and Conjugates	Straight Chain Fatty Acids
+whddca	omega hydroxy dodecanoate (n_c12:0)	C08317	1	12-Hydroxydodecanoic acid		79034	10515	HMDB02059	Organic Compounds	Lipids	Fatty Acids and Conjugates	Hydroxy Fatty Acids
+amet	s_adenosyl_l_methionine	C00019	11	S-Adenosyl-L-methionine	Vitamins and Cofactors	34755	3321	HMDB01185	Organic Compounds	Amino Acids, Peptides, and Analogues	Amino Acids and Derivatives	Glycoamino Acids and Derivatives
+ahcys	s_adenosyl_l_homocysteine	C00021	18	S-Adenosyl-L-homocysteine		439155	3323	HMDB00939	Organic Compounds	Amino Acids, Peptides, and Analogues	Amino Acids and Derivatives	Glycoamino Acids and Derivatives
+hcys_L	l_homocysteine	C00155	10	L-Homocysteine	Peptides	91552	3455	NA		Others		
+34dhphe	3,4_dihydroxy_l_phenylalanine	C00355	10	3,4-Dihydroxy-L-phenylalanine	Peptides!Hormones and transmitters	6047	3648	HMDB00181	Organic Compounds	Amino Acids, Peptides, and Analogues	Amino Acids and Derivatives	Alpha Amino Acids and Derivatives
+nrpphr	norepinephrine	C00547	15	L-Noradrenaline	Hormones and transmitters	439260	3828	HMDB00216	Organic Compounds	Aromatic Cyclic Compounds	Phenols and Derivatives	Benzenediols
+dopa	dopamine	C03758	17	Dopamine	Peptides!Hormones and transmitters	681	6517	HMDB00073	Organic Compounds	Aromatic Cyclic Compounds	Phenols and Derivatives	Benzenediols
+C05302	2-Methoxyestradiol-17beta	C05302	1	2-Methoxy-17beta-estradiol	Steroids	66414	7686	HMDB00405	Organic Compounds	Lipids	Steroids and Steroid Derivatives	Estrogens and Derivatives
+bz	benzoate	C00180	13	Benzoate		243	3480	HMDB01870	Organic Compounds	Aromatic Cyclic Compounds	Benzoic Acid and Derivatives	N/A
+phe_L	l_phenylalanine	C00079	17	L-Phenylalanine	Peptides	6140	3379	HMDB00159	Organic Compounds	Amino Acids, Peptides, and Analogues	Amino Acids and Derivatives	Alpha Amino Acids and Derivatives
+phpyr	phenylpyruvate	C00166	9	Phenylpyruvate		997	3466	HMDB00205	Organic Compounds	Aromatic Cyclic Compounds	Benzyl Alcohols and Derivatives	Phenylpyruvic Acid Derivatives
+hgentis	homogentisate	C00544	3	Homogentisate		780	3825	HMDB00130	Organic Compounds	Aromatic Cyclic Compounds	Phenylacetic Acid Derivatives	N/A
+HC00460	2,5-dihydroxybenzoate	C00628	6	2,5-Dihydroxybenzoate		3469	3901	HMDB00152	Organic Compounds	Aromatic Cyclic Compounds	Benzoic Acid and Derivatives	Hydroxybenzoic Acid Derivatives
+T4hcinnm	trans_4_hydroxycinnamate	C00811	12	4-Coumarate		637542	4069	HMDB02035	Organic Compounds	Aromatic Cyclic Compounds	Cinnamic Acid Derivatives	Hydroxycinnamic Acid Derivatives
+34dhpha	3,4_dihydroxyphenylacetate	C01161	7	3,4-Dihydroxyphenylacetate		547	4388	HMDB01336	Organic Compounds	Aromatic Cyclic Compounds	Phenols and Derivatives	Tyrosols and Derivatives
+34hpp	3_(4_hydroxyphenyl)pyruvate	C01179	6	3-(4-Hydroxyphenyl)pyruvate		979	4406	HMDB00707	Organic Compounds	Aromatic Cyclic Compounds	Benzyl Alcohols and Derivatives	Phenylpyruvic Acid Derivatives
+homoval	homovanillate	C05582	5	Homovanillate		1738	7908	HMDB00118	Organic Compounds	Aromatic Cyclic Compounds	Phenols and Derivatives	Tyrosols and Derivatives
+2hyoxplac	2_hydroxyphenylacetate	C05852	5	2-Hydroxyphenylacetate		11970	8145	HMDB00669	Organic Compounds	Aromatic Cyclic Compounds	Phenylacetic Acid Derivatives	N/A
+3aib	l_3_amino_isobutanoate	C03284	1	L-3-Amino-isobutanoate		439434	6143	HMDB02166	Organic Compounds	Amino Acids, Peptides, and Analogues	Amino Acids and Derivatives	Beta Amino Acids and Derivatives
+anth	anthranilate	C00108	7	Anthranilate		227	3408	HMDB01123	Organic Compounds	Aromatic Cyclic Compounds	Benzoic Acid and Derivatives	Aminobenzoic Acid Derivatives
+quln	quinolinate	C03722	8	Quinolinate		1066	6487	HMDB00232	Organic Compounds	Amino Acids, Peptides, and Analogues	Amino Acids and Derivatives	Alpha Amino Acids and Derivatives
+accoa	acetyl_coa	C00024	31	Acetyl-CoA		444493	3326	HMDB01206	Organic Compounds	Lipids	Fatty Acid Esters	Acyl CoAs
+malcoa	malonyl_coa	C00083	13	Malonyl-CoA		644066	3383	HMDB01175	Organic Compounds	Lipids	Fatty Acid Esters	Acyl CoAs
+ppcoa	propanoyl_coa	C00100	13	Propanoyl-CoA		92753	3400	HMDB01275	Organic Compounds	Lipids	Fatty Acid Esters	Acyl CoAs
+aacoa	acetoacetyl_coa	C00332	13	Acetoacetyl-CoA		92153	3626	HMDB01484	Organic Compounds	Lipids	Fatty Acid Esters	Acyl CoAs
+ibcoa	isobutyryl_coa	C00630	2	2-Methylpropanoyl-CoA		3036931	3903	HMDB01243	Organic Compounds	Lipids	Fatty Acid Esters	Acyl CoAs
+pentcoa	pentanoylcoa	C00888	5	Pentanoyl-CoA		11966122	4144	HMDB13037	Organic Compounds	Lipids	Fatty Acid Esters	Acyl CoAs
+lys_L	l_lysine	C00047	11	L-Lysine	Peptides	5962	3349	HMDB00182	Organic Compounds	Amino Acids, Peptides, and Analogues	Amino Acids and Derivatives	Alpha Amino Acids and Derivatives
+asp_L	l_aspartate	C00049	18	L-Aspartate	Peptides!Hormones and transmitters	5960	3351	HMDB00191	Organic Compounds	Amino Acids, Peptides, and Analogues	Amino Acids and Derivatives	Alpha Amino Acids and Derivatives
+so4	sulfate	C00059	66	Sulfate		1118	3359	HMDB01448	Inorganic Compounds	Others	Non-metal Oxoanionic Compounds	Non-metal Sulfates
+gln_L	l_glutamine	C00064	11	L-Glutamine	Peptides	5961	3364	HMDB00641	Organic Compounds	Amino Acids, Peptides, and Analogues	Amino Acids and Derivatives	Alpha Amino Acids and Derivatives
+met_L	l_methionine	C00073	16	L-Methionine	Peptides	6137	3373	HMDB00696	Organic Compounds	Amino Acids, Peptides, and Analogues	Amino Acids and Derivatives	Alpha Amino Acids and Derivatives
+trp_L	l_tryptophan	C00078	25	L-Tryptophan	Peptides	6305	3378	HMDB00929	Organic Compounds	Amino Acids, Peptides, and Analogues	Amino Acids and Derivatives	Alpha Amino Acids and Derivatives
+leu_L	l_leucine	C00123	15	L-Leucine	Peptides	6106	3423	HMDB00687	Organic Compounds	Amino Acids, Peptides, and Analogues	Amino Acids and Derivatives	Alpha Amino Acids and Derivatives
+his_L	l_histidine	C00135	10	L-Histidine	Peptides	6274	3435	HMDB00177	Organic Compounds	Amino Acids, Peptides, and Analogues	Amino Acids and Derivatives	Alpha Amino Acids and Derivatives
+asn_L	l_asparagine	C00152	11	L-Asparagine	Peptides	6267	3452	HMDB00168	Organic Compounds	Amino Acids, Peptides, and Analogues	Amino Acids and Derivatives	Alpha Amino Acids and Derivatives
+nac	nicotinate	C00253	9	Nicotinate	Vitamins and Cofactors	938	3552	HMDB01488	Organic Compounds	Aromatic Cyclic Compounds	Pyridines and Derivatives	Pyridinecarboxylic Acids and Derivatives
+2oxoadp	2_oxoadipate	C00322	3	2-Oxoadipate	Organic acids	71	3616	HMDB00225	Organic Compounds	Organic Acids and Derivatives	Keto-Acids and Derivatives	Medium-chain Keto Acids and Derivatives
+Lkynr	l_kynurenine	C00328	4	L-Kynurenine		161166	3622	HMDB00684	Organic Compounds	Amino Acids, Peptides, and Analogues	Amino Acids and Derivatives	Alpha Amino Acids and Derivatives
+HC00319	Malonate	C00383	19	Malonate	Organic acids	867	3673	HMDB00691	Organic Compounds	Organic Acids and Derivatives	Carboxylic Acids and Derivatives	Dicarboxylic Acids and Derivatives
+Lcyst	l_cysteate	C00506	5	L-Cysteate		72886	3789	HMDB02757	Organic Compounds	Amino Acids, Peptides, and Analogues	Amino Acids and Derivatives	Alpha Amino Acids and Derivatives
+3sala	3_sulfino_l_alanine	C00606	4	3-Sulfino-L-alanine	Peptides	1549098	3881	HMDB00996	Organic Compounds	Amino Acids, Peptides, and Analogues	Amino Acids and Derivatives	Alpha Amino Acids and Derivatives
+ind3ac	indole_3_acetate	C00954	13	Indole-3-acetate		802	4205	HMDB00197	Organic Compounds	Aromatic Cyclic Compounds	Indoles	Indolyl Carboxylic Acids and Derivatives
+L2aadp	l_2_aminoadipate	C00956	6	L-2-Aminoadipate		92136	4207	HMDB00510	Organic Compounds	Amino Acids, Peptides, and Analogues	Amino Acids and Derivatives	Alpha Amino Acids and Derivatives
+pser_L	o_phospho_l_serine	C01005	6	O-Phospho-L-serine		68841	4251	HMDB00272	Organic Compounds	Amino Acids, Peptides, and Analogues	Amino Acids and Derivatives	Alpha Amino Acids and Derivatives
+ddca	dodecanoate (n_c12:0)	C01571	6	Decanoic acid	Lipids	2969	4728	HMDB00511	Organic Compounds	Lipids	Fatty Acids and Conjugates	Straight Chain Fatty Acids
+kynate	4_hydroxy_2_quinolinecarboxylic acid	C01717	11	4-Hydroxy-2-quinolinecarboxylic acid		3845	4854	HMDB00715	Organic Compounds	Amino Acids, Peptides, and Analogues	Amino Acids and Derivatives	Alpha Amino Acids and Derivatives
+C02470	Xanthurenic acid	C02470	6	Xanthurenic acid		5699	5485	HMDB00881	Organic Compounds	Amino Acids, Peptides, and Analogues	Amino Acids and Derivatives	Alpha Amino Acids and Derivatives
+adpac	adipic acid	C06104	7	Adipate	Organic acids	196	8368	HMDB00448	Organic Compounds	Organic Acids and Derivatives	Carboxylic Acids and Derivatives	Dicarboxylic Acids and Derivatives
+C08261	Azelaic acid	C08261	4	Azelaic acid		2266	10460	HMDB00784	Organic Compounds	Organic Acids and Derivatives	Carboxylic Acids and Derivatives	Dicarboxylic Acids and Derivatives
+tyr_L	l_tyrosine	C00082	14	L-Tyrosine	Peptides	6057	3382	HMDB00158	Organic Compounds	Amino Acids, Peptides, and Analogues	Amino Acids and Derivatives	Alpha Amino Acids and Derivatives
+trypta	tryptamine	C00398	8	Tryptamine		1150	3688	HMDB00303	Organic Compounds	Aromatic Cyclic Compounds	Indoles	Tryptamines and Derivatives
+tym	tyramine	C00483	8	Tyramine	Peptides	5610	3766	HMDB00306	Organic Compounds	Aromatic Cyclic Compounds	Phenethylamines	N/A
+id3acald	indole_3_acetaldehyde	C00637	2	Indole-3-acetaldehyde		800	3910	HMDB01190	Organic Compounds	Aromatic Cyclic Compounds	Indoles	N/A
+5htrp	5_hydroxy_l_tryptophan	C00643	3	5-Hydroxy-L-tryptophan		439280	3916	HMDB15571	Organic Compounds	Amino Acids, Peptides, and Analogues	Amino Acids and Derivatives	Alpha Amino Acids and Derivatives
+srtn	serotonin	C00780	13	Serotonin	Peptides!Hormones and transmitters	5202	4041	HMDB00259	Organic Compounds	Aromatic Cyclic Compounds	Indoles	Tryptamines and Derivatives
+adrnl	adrenaline	C00788	14	L-Adrenaline	Hormones and transmitters	5816	4046	HMDB00068	Organic Compounds	Aromatic Cyclic Compounds	Phenols and Derivatives	Benzenediols
+3ityr_L	3_iodo_l_tyrosine	C02515	4	3-Iodo-L-tyrosine	Peptides	439744	5525	HMDB00021	Organic Compounds	Amino Acids, Peptides, and Analogues	Amino Acids and Derivatives	Alpha Amino Acids and Derivatives
+peamn	phenethylamine	C05332	5	Phenethylamine	Peptides	1001	7711	HMDB12275	Organic Compounds	Aromatic Cyclic Compounds	Phenethylamines	N/A
+5hoxindoa	5_hydroxyindoleacetate	C05635	3	5-Hydroxyindoleacetate		1826	7946	HMDB00763	Organic Compounds	Aromatic Cyclic Compounds	Indoles	Indolyl Carboxylic Acids and Derivatives
+ac	acetate	C00033	47	Acetate	Organic acids	176	3335	HMDB00042	Organic Compounds	Organic Acids and Derivatives	Carboxylic Acids and Derivatives	Carboxylic Acid Derivatives
+mal_L	l_malate	C00149	30	(S)-Malate	Organic acids	222656	3449	HMDB00156	Organic Compounds	Organic Acids and Derivatives	Carboxylic Acids and Derivatives	Dicarboxylic Acids and Derivatives
+4abut	4_aminobutanoate	C00334	6	4-Aminobutanoate	Peptides!Hormones and transmitters	119	3628	HMDB00112	Organic Compounds	Amino Acids, Peptides, and Analogues	Amino Acids and Derivatives	Gamma Amino Acids and Derivatives
+paps	3_phosphoadenylyl sulfate	C00053	5	3'-Phosphoadenylyl sulfate	Vitamins and Cofactors	10214	3355	HMDB01134	Organic Compounds	Nucleosides, Nucleotides, and Analogues	Purine Nucleotides	Purine Ribonucleotides
+pap	adenosine 3,5_bisphosphate	C00054	8	Adenosine 3',5'-bisphosphate		159296	3356	HMDB00061	Organic Compounds	Nucleosides, Nucleotides, and Analogues	Purine Nucleotides	Purine Ribonucleotides
+triodthy	triiodothyronine	C02465	4	Triiodothyronine	Peptides!Hormones and transmitters	5920	5481	HMDB00265	Organic Compounds	Amino Acids, Peptides, and Analogues	Amino Acids and Derivatives	Alpha Amino Acids and Derivatives
+34dhoxpeg	3,4_dihydroxyphenylethyleneglycol	C05576	1	3,4-Dihydroxyphenylethyleneglycol		91528	7902	HMDB00318	Organic Compounds	Aromatic Cyclic Compounds	Phenols and Derivatives	Tyrosols and Derivatives
+34dhoxmand	3,4_dihydroxymandelate	C05580	3	3,4-Dihydroxymandelate		85782	7906	HMDB01866	Organic Compounds	Aromatic Cyclic Compounds	Phenols and Derivatives	Tyrosols and Derivatives
+dopasf	dopamine 3_o_sulfate	C13690	1	Dopamine 3-O-sulfate		122136	586279	HMDB06275	Organic Compounds	Aromatic Cyclic Compounds	Phenols and Derivatives	Benzenediols
+andrstrn	androsterone	C00523	7	Androsterone	Steroids	5879	3806	HMDB00031	Organic Compounds	Lipids	Steroids and Steroid Derivatives	Androgens and Derivatives
+dhea	dehydroepiandrosterone	C01227	9	Dehydroepiandrosterone	Steroids!Hormones and transmitters	5881	4449	HMDB00077	Organic Compounds	Lipids	Steroids and Steroid Derivatives	Androgens and Derivatives
+retinol	retinol	C00473	2	Retinol	Vitamins and Cofactors	445354	3756	HMDB00305	Organic Compounds	Lipids	Prenol Lipids	Retinoids
+estradiol	estradiol	C00951	17	Estradiol-17beta	Steroids!Hormones and transmitters	5757	4202	HMDB00151	Organic Compounds	Lipids	Steroids and Steroid Derivatives	Estrogens and Derivatives
+3moxtyr	3_methoxytyramine	C05587	2	3-Methoxytyramine		1669	7912	HMDB00022	Organic Compounds	Aromatic Cyclic Compounds	Phenols and Derivatives	Benzenediols
+CE3087	beta-carboline	C20157	6	beta-Carboline		64961	135626616	HMDB12897	Organic Compounds	Aromatic Cyclic Compounds	Indoles	Pyridoindoles
+fald	formaldehyde	C00067	15	Formaldehyde		712	3367	HMDB01426	Organic Compounds	Aliphatic Acyclic Compounds	Carbonyl Compounds	Aldehydes
+ade	adenine	C00147	21	Adenine	Nucleic acids	190	3447	HMDB00034	Organic Compounds	Aromatic Cyclic Compounds	Imidazopyrimidines	N/A
+adn	adenosine	C00212	35	Adenosine	Nucleic acids	60961	3512	HMDB00050	Organic Compounds	Nucleosides, Nucleotides, and Analogues	Purine Nucleosides and Analogues	N/A
+adprib	adpribose	C00301	16	ADP-ribose		445794	3595	HMDB01178	Organic Compounds	Nucleosides, Nucleotides, and Analogues	Purine Nucleotides	Purine Ribonucleotides
+prgstrn	progesterone	C00410	16	Progesterone	Steroids!Hormones and transmitters	5994	3700	HMDB01830	Organic Compounds	Lipids	Steroids and Steroid Derivatives	Gluco/mineralocorticoids, Progestogins and Derivatives
+mthgxl	methylglyoxal	C00546	11	Methylglyoxal		880	3827	HMDB01167	Organic Compounds	Aliphatic Acyclic Compounds	Carbonyl Compounds	Aldehydes
+glyald	d_glyceraldehyde	C00577	1	D-Glyceraldehyde	Carbohydrates	79014	3856	NA		Others		
+3hanthrn	3_hydroxyanthranilate	C00632	3	3-Hydroxyanthranilate		86	3905	HMDB01476	Organic Compounds	Aromatic Cyclic Compounds	Benzoic Acid and Derivatives	Hydroxybenzoic Acid Derivatives
+4mptnl	4_methylpentanal	C02373	2	4-Methylpentanal		129	5415	HMDB01318	Organic Compounds	Aliphatic Acyclic Compounds	Carbonyl Compounds	Aldehydes
+1mncam	1_methylnicotinamide	C02918	2	1-Methylnicotinamide		457	5841	HMDB00699	Organic Compounds	Aromatic Cyclic Compounds	Pyridines and Derivatives	Pyridinium Derivatives
+11docrtstrn	11_deoxycorticosterone	C03205	6	11-Deoxycorticosterone	Steroids!Hormones and transmitters	6166	6081	HMDB00016	Organic Compounds	Lipids	Steroids and Steroid Derivatives	Gluco/mineralocorticoids, Progestogins and Derivatives
+4hoxpacd	4_hydroxyphenylacetaldehyde	C03765	1	4-Hydroxyphenylacetaldehyde		440113	6521	HMDB03767	Organic Compounds	Aromatic Cyclic Compounds	Phenylacetaldehydes	N/A
+C09209	Harman	C09209	2	Harman		5281404	11400	HMDB35196	Organic Compounds	Others	Harmala Alkaloids	N/A
+ppi	diphosphate	C00013	77	Diphosphate		1023	3315	HMDB00250	Inorganic Compounds	Others	Non-metal Oxoanionic Compounds	Non-metal Pyrophosphates
+btcoa	butanoyl_coa	C00136	9	Butanoyl-CoA		122283	3436	HMDB01088	Organic Compounds	Lipids	Fatty Acid Esters	Acyl CoAs
+HC01406	3-Oxooctanoyl-CoA	C05267	2	3-Oxooctanoyl-CoA		11966162	7654	HMDB03941	Organic Compounds	Lipids	Fatty Acid Esters	Acyl CoAs
+dcacoa	decanoyl_coa (n_c10:0coa)	C05274	7	Decanoyl-CoA		164800	7661	HMDB06404	Organic Compounds	Lipids	Fatty Acid Esters	Acyl CoAs
+for	formate	C00058	11	Formate	Organic acids	284	3358	HMDB00142	Organic Compounds	Organic Acids and Derivatives	Carboxylic Acids and Derivatives	Carboxylic Acid Derivatives
+glyc	glycerol	C00116	27	Glycerol	Carbohydrates	753	3416	HMDB00131	Organic Compounds	Carbohydrates and Carbohydrate Conjugates	Sugar Alcohols	N/A
+hco3	bicarbonate	C00288	13	HCO3-		769	3583	HMDB00595	Organic Compounds	Organic Acids and Derivatives	Organic Carbonic Acids and Derivatives	N/A
+stcoa	stearoyl_coa (n_c18:0coa)	C00412	7	Stearoyl-CoA		94140	3702	HMDB01114	Organic Compounds	Lipids	Fatty Acid Esters	Acyl CoAs
+odecoa	octadecenoyl_coa (n_c18:1coa)	C00510	10	Oleoyl-CoA		5497111	3793	HMDB01322	Organic Compounds	Lipids	Fatty Acid Esters	Acyl CoAs
+arachcoa	arachidyl coenzyme a	C02041	1	Eicosanoyl-CoA		3081439	5132	HMDB04258	Organic Compounds	Lipids	Fatty Acid Esters	Acyl CoAs
+arachdcoa	c20:4_coa	C02249	4	Arachidonyl-CoA		5497113	5312	HMDB06523	Organic Compounds	Lipids	Fatty Acid Esters	Acyl CoAs
+tdcoa	tetradecanoyl_coa (n_c14:0coa)	C02593	7	Tetradecanoyl-CoA		11966124	5585	HMDB01521	Organic Compounds	Lipids	Fatty Acid Esters	Acyl CoAs
+ttdca	tetradecanoate (n_c14:0)	C06424	6	Tetradecanoic acid	Lipids	11005	8659	HMDB00806	Organic Compounds	Lipids	Fatty Acids and Conjugates	Straight Chain Fatty Acids
+CE2254	docosanoyl-CoA	C16528	2	Docosanoyl-CoA		168166	51090857	NA		Others		
+ttccoa	tetracosanoyl_coa  (n_c24:0coa)	C16529	1	Tetracosanoyl-CoA		3082227	51090858	HMDB06526	Organic Compounds	Lipids	Fatty Acid Esters	Acyl CoAs
+ppa	propionate (n_c3:0)	C00163	15	Propanoate	Organic acids	1032	3463	HMDB00237	Organic Compounds	Organic Acids and Derivatives	Carboxylic Acids and Derivatives	Carboxylic Acid Derivatives
+but	butyrate (n_c4:0)	C00246	12	Butanoic acid	Organic acids!Lipids	264	3545	HMDB00039	Organic Compounds	Lipids	Fatty Acids and Conjugates	Straight Chain Fatty Acids
+HC01007	L-Octanoylcarnitine	C02838	3	L-Octanoylcarnitine		11953814	5780	HMDB00791	Organic Compounds	Lipids	Fatty Acid Esters	Acyl Carnitines
+acnam	n_acetylneuraminate	C00270	5	N-Acetylneuraminate	Carbohydrates	439197	3568	NA		Others		
+dgtp	dgtp	C00286	16	dGTP	Nucleic acids	65103	3581	HMDB01440	Organic Compounds	Nucleosides, Nucleotides, and Analogues	Purine Nucleotides	Purine Deoxyribonucleotides
+gam6p	d_glucosamine 6_phosphate	C00352	6	D-Glucosamine 6-phosphate		440997	3645	HMDB01254	Organic Compounds	Carbohydrates and Carbohydrate Conjugates	Monosaccharides	Hexoses
+glc_D	d_glucose	C00031	39	D-Glucose	Carbohydrates	5793	3333	HMDB00122	Organic Compounds	Carbohydrates and Carbohydrate Conjugates	Monosaccharides	Hexoses
+uacgam	udp_n_acetyl_d_glucosamine	C00043	13	UDP-N-acetyl-alpha-D-glucosamine		445675	3345	HMDB00290	Organic Compounds	Nucleosides, Nucleotides, and Analogues	Pyrimidine Nucleotides	Pyrimidine Nucleotide Sugars
+ctp	ctp	C00063	57	CTP	Nucleic acids!Vitamins and Cofactors	6176	3363	HMDB00082	Organic Compounds	Nucleosides, Nucleotides, and Analogues	Pyrimidine Nucleotides	Pyrimidine Ribonucleotides
+utp	utp	C00075	64	UTP	Nucleic acids	6133	3375	HMDB00285	Organic Compounds	Nucleosides, Nucleotides, and Analogues	Pyrimidine Nucleotides	Pyrimidine Ribonucleotides
+acgam	n_acetyl_d_glucosamine	C00140	9	N-Acetyl-D-glucosamine	Carbohydrates	439174	3440	HMDB00215	Organic Compounds	Carbohydrates and Carbohydrate Conjugates	Monosaccharides	Hexoses
+gam	d_glucosamine	C00329	9	D-Glucosamine	Carbohydrates	439213	3623	HMDB01514	Organic Compounds	Carbohydrates and Carbohydrate Conjugates	Monosaccharides	Hexoses
+acgam6p	n_acetyl_d_glucosamine 6_phosphate	C00357	2	N-Acetyl-D-glucosamine 6-phosphate		440996	3650	HMDB01062	Organic Compounds	Carbohydrates and Carbohydrate Conjugates	Monosaccharides	Hexoses
+acmana	n_acetyl_d_mannosamine	C00645	5	N-Acetyl-D-mannosamine	Carbohydrates	439281	3918	HMDB01129	Organic Compounds	Carbohydrates and Carbohydrate Conjugates	Monosaccharides	Hexoses
+g1p	d_glucose 1_phosphate	C00103	17	D-Glucose 1-phosphate		65533	3403	HMDB01586	Organic Compounds	Carbohydrates and Carbohydrate Conjugates	Monosaccharides	Hexoses
+dha	dihydroxyacetone	C00184	3	Glycerone	Carbohydrates	670	3484	HMDB01882	Organic Compounds	Carbohydrates and Carbohydrate Conjugates	Monosaccharides	Trioses
+b2coa	crotonoyl_coa	C00877	4	Crotonoyl-CoA		5497143	4133	HMDB02009	Organic Compounds	Lipids	Fatty Acid Esters	Acyl CoAs
+2mb2coa	trans_2_methylbut_2_enoyl_coa	C03345	1	2-Methylbut-2-enoyl-CoA		6443760	6188	HMDB02054	Organic Compounds	Lipids	Fatty Acid Esters	Acyl CoAs
+HC01409	Hexanoyl-CoA	C05270	3	Hexanoyl-CoA		449118	7657	HMDB02845	Organic Compounds	Lipids	Fatty Acid Esters	Acyl CoAs
+lipoate	lipoate	C00725	7	Lipoate	Vitamins and Cofactors	864	3990	HMDB01451	Organic Compounds	Others	Dithiolanes	Lipoic Acid Derivatives
+fmn	fmn	C00061	15	FMN	Vitamins and Cofactors	643976	3361	HMDB01520	Organic Compounds	Aromatic Cyclic Compounds	Pteridines and Derivatives	Alloxazines and Isoalloxazines
+ACP	acyl carrier protein	C00229	1	Acyl-carrier protein			3528	NA		Others		
+ptth	pantetheine	C00831	4	Pantetheine		439322	4089	HMDB03426	Organic Compounds	Organic Acids and Derivatives	Carboxylic Acids and Derivatives	Carboxylic Acid Derivatives
+orn	ornithine	C01602	6	Ornithine		389	4756	HMDB32455	Organic Compounds	Amino Acids, Peptides, and Analogues	Amino Acids and Derivatives	Alpha Amino Acids and Derivatives
+f6p	d_fructose 6_phosphate	C00085	21	D-Fructose 6-phosphate		439160	3385	HMDB00124	Organic Compounds	Carbohydrates and Carbohydrate Conjugates	Monosaccharides	Hexoses
+fum	fumarate	C00122	23	Fumarate		444972	3422	HMDB00134	Organic Compounds	Lipids	Fatty Acids and Conjugates	Unsaturated Fatty Acids
+o2s	superoxide anion	C00704	6	O2.-		5359597	3971	HMDB02168	Inorganic Compounds	Others	Non-metal Oxoanionic Compounds	Non-metal Superoxides
+4h2oglt	4_hydroxy_2_oxoglutarate	C01127	1	4-Hydroxy-2-oxoglutarate		599	4358	HMDB02070	Organic Compounds	Organic Acids and Derivatives	Keto-Acids and Derivatives	Gamma Keto-Acids and Derivatives
+C10164	Picolinic acid	C10164	5	Picolinic acid		1018	12350	HMDB02243	Organic Compounds	Amino Acids, Peptides, and Analogues	Amino Acids and Derivatives	Alpha Amino Acids and Derivatives
+CE5643	peroxynitrite	C16845	13	Peroxynitrite		104806	96023369	HMDB02179	Inorganic Compounds	Others	Non-metal Oxoanionic Compounds	Non-metal Peroxynitrites
+so3	sulfite	C00094	13	Sulfite		1100	3394	HMDB00240	Inorganic Compounds	Others	Non-metal Oxoanionic Compounds	Non-metal Sulfites
+chol	choline	C00114	12	Choline		305	3414	HMDB00097	Organic Compounds	Aliphatic Acyclic Compounds	Alcohols and Polyols	Cholines
+gmp	gmp	C00144	44	GMP	Nucleic acids	6804	3444	HMDB01397	Organic Compounds	Nucleosides, Nucleotides, and Analogues	Purine Nucleotides	Purine Ribonucleotides
+glcur	d_glucuronate	C00191	4	D-Glucuronate	Carbohydrates	94715	3491	HMDB00127	Organic Compounds	Carbohydrates and Carbohydrate Conjugates	Sugar Acids and Derivatives	Glucuronic Acid Derivatives
+thymd	thymidine	C00214	9	Thymidine	Nucleic acids	5789	3514	HMDB00273	Organic Compounds	Nucleosides, Nucleotides, and Analogues	Pyrimidine Nucleosides and Analogues	Pyrimidine 2'-deoxyribonucleosides and Analogues
+creat	creatine	C00300	3	Creatine		586	3594	HMDB00064	Organic Compounds	Amino Acids, Peptides, and Analogues	Amino Acids and Derivatives	Alpha Amino Acids and Derivatives
+ethamp	ethanolamine phosphate	C00346	4	Ethanolamine phosphate		1015	3639	HMDB00224	Organic Compounds	Others	Organic Phosphoric Acids and Derivatives	Organophosphate Esters
+thm	thiamin	C00378	2	Thiamine	Vitamins and Cofactors	1130	3668	HMDB00235	Organic Compounds	Aromatic Cyclic Compounds	Thiamines	N/A
+gsn	guanosine	C00387	17	Guanosine	Nucleic acids	6802	3677	HMDB00133	Organic Compounds	Nucleosides, Nucleotides, and Analogues	Purine Nucleosides and Analogues	N/A
+pppi	inorganic triphosphate	C00536	4	Triphosphate		983	3818	HMDB03379	Inorganic Compounds	Others	Non-metal Oxoanionic Compounds	Non-metal Pyrophosphates
+camp	camp	C00575	20	3',5'-Cyclic AMP	Nucleic acids	6076	3854	HMDB00058	Organic Compounds	Nucleosides, Nucleotides, and Analogues	Purine Nucleotides	Cyclic Purine Nucleotides
+cholp	choline phosphate	C00588	6	Choline phosphate		1014	3867	HMDB01565	Organic Compounds	Aliphatic Acyclic Compounds	Alcohols and Polyols	Cholines
+pyam5p	pyridoxamine 5_phosphate	C00647	8	Pyridoxamine phosphate		1053	3919	HMDB01555	Organic Compounds	Aromatic Cyclic Compounds	Pyridines and Derivatives	Pyridoxamines
+glyb	glycine betaine	C00719	4	Betaine		247	3985	HMDB00043	Organic Compounds	Amino Acids, Peptides, and Analogues	Amino Acids and Derivatives	Alpha Amino Acids and Derivatives
+ser_D	d_serine	C00740	8	D-Serine	Peptides	71077	4003	HMDB03406	Organic Compounds	Amino Acids, Peptides, and Analogues	Amino Acids and Derivatives	Alpha Amino Acids and Derivatives
+minohp	myo_inositol hexakisphosphate	C01204	3	Phytic acid		890	4428	HMDB03502	Organic Compounds	Others	Cyclic Alcohols and Derivatives	Cyclitols and Derivatives
+thyox_L	l_thyroxine	C01829	6	Thyroxine	Peptides!Hormones and transmitters	5819	4950	HMDB00248	Organic Compounds	Amino Acids, Peptides, and Analogues	Amino Acids and Derivatives	Alpha Amino Acids and Derivatives
+tchola	taurocholic acid	C05122	9	Taurocholate	Steroids	53297338	7544	HMDB00036	Organic Compounds	Lipids	Steroids and Steroid Derivatives	Bile Acids, Alcohols and Derivatives
+dhdascb	dehydroascorbate	C05422	4	Dehydroascorbate		440667	7786	NA		Others		
+CE0074	alloxan	C07599	6	Alloxanthine		4644	9801	HMDB00786	Organic Compounds	Aromatic Cyclic Compounds	Imidazopyrimidines	Purines and Purine Derivatives
+4nphsf	4_nitrophenyl sulfate	HMDB06492	3	4-Nitrophenyl sulfate		3609671	80349	HMDB06492	Organic Compounds	Aromatic Cyclic Compounds	Phenols and Derivatives	Nitrophenols and Derivatives
+sucr	sucrose	C00089	13	Sucrose	Carbohydrates	5988	3389	HMDB00258	Organic Compounds	Carbohydrates and Carbohydrate Conjugates	Disaccharides	Mixed Pentose/Hexose Disaccharides
+g3p	glyceraldehyde 3_phosphate	C00118	11	D-Glyceraldehyde 3-phosphate		439168	3418	NA		Others		
+xu5p_D	d_xylulose 5_phosphate	C00231	3	D-Xylulose 5-phosphate		439190	3530	HMDB00868	Organic Compounds	Carbohydrates and Carbohydrate Conjugates	Monosaccharides	Pentoses
+co	carbon monoxide	C00237	16	CO		281	3536	HMDB01361	Organic Compounds	Aliphatic Acyclic Compounds	N/A	N/A
+e4p	d_erythrose 4_phosphate	C00279	9	D-Erythrose 4-phosphate		122357	3574	HMDB01321	Organic Compounds	Carbohydrates and Carbohydrate Conjugates	Monosaccharides	Monosaccharide Phosphates
+sbt_D	d_sorbitol	C00794	8	D-Sorbitol	Carbohydrates	5780	4052	HMDB00247	Organic Compounds	Lipids	Fatty Alcohols	N/A
+Nacsertn	n_acetylserotonin	C00978	6	N-Acetylserotonin		903	4227	HMDB01238	Organic Compounds	Aromatic Cyclic Compounds	Indoles	Tryptamines and Derivatives
+cbp	carbamoyl phosphate	C00169	9	Carbamoyl phosphate		278	3469	HMDB01096	Organic Compounds	Aliphatic Acyclic Compounds	Organic Oxoanionic Compounds	Organic Phosphites
+orot	orotate	C00295	4	Orotate		967	3589	HMDB00226	Organic Compounds	Amino Acids, Peptides, and Analogues	Amino Acids and Derivatives	Alpha Amino Acids and Derivatives
+hxan	hypoxanthine	C00262	5	Hypoxanthine		790	3560	HMDB00157	Organic Compounds	Aromatic Cyclic Compounds	Imidazopyrimidines	Purines and Purine Derivatives
+ins	inosine	C00294	11	Inosine		6021	3588	HMDB00195	Organic Compounds	Nucleosides, Nucleotides, and Analogues	Purine Nucleosides and Analogues	Purine 2'-deoxyribonucleosides and Analogues
+spmd	spermidine	C00315	19	Spermidine		1102	3609	HMDB01257	Organic Compounds	Aliphatic Acyclic Compounds	Alkylamines	Polyamines
+fol	folate	C00504	12	Folate	Vitamins and Cofactors	6037	3787	HMDB00121	Organic Compounds	Aromatic Cyclic Compounds	Pteridines and Derivatives	Pterins and Derivatives
+crtstrn	corticosterone	C02140	5	Corticosterone	Steroids!Hormones and transmitters	5753	5219	HMDB01547	Organic Compounds	Lipids	Steroids and Steroid Derivatives	Gluco/mineralocorticoids, Progestogins and Derivatives
+din	deoxyinosine	C05512	3	Deoxyinosine		65058	7859	HMDB00071	Organic Compounds	Nucleosides, Nucleotides, and Analogues	Purine Nucleosides and Analogues	Purine 2'-deoxyribonucleosides and Analogues
+cyan	hydrogen cyanide	C01326	1	Hydrogen cyanide		768	4537	NA		Others		
+tcynt	thiocyanate	C01755	18	Thiocyanate		781	4888	HMDB01453	Organic Compounds	Aliphatic Acyclic Compounds	Thiocyanates	N/A
+ptrc	putrescine	C00134	18	Putrescine	Peptides	1045	3434	HMDB01414	Organic Compounds	Aliphatic Acyclic Compounds	Alkylamines	Polyamines
+5mta	5_methylthioadenosine	C00170	6	5'-Methylthioadenosine		439176	3470	HMDB01173	Organic Compounds	Nucleosides, Nucleotides, and Analogues	Purine Nucleosides and Analogues	N/A
+agm	agmatine	C00179	7	Agmatine		199	3479	HMDB01432	Organic Compounds	Aliphatic Acyclic Compounds	Guanidines	N/A
+dgsn	deoxyguanosine	C00330	7	Deoxyguanosine	Nucleic acids	187790	3624	HMDB00085	Organic Compounds	Nucleosides, Nucleotides, and Analogues	Purine Nucleosides and Analogues	Purine 2'-deoxyribonucleosides and Analogues
+sprm	spermine	C00750	18	Spermine		1103	4012	HMDB01256	Organic Compounds	Aliphatic Acyclic Compounds	Alkylamines	Polyamines
+ametam	s_adenosylmethioninamine	C01137	1	S-Adenosylmethioninamine	Peptides	439415	4368	HMDB00988	Organic Compounds	Nucleosides, Nucleotides, and Analogues	Purine Nucleosides and Analogues	N/A
+itp	itp	C00081	19	ITP		8583	3381	HMDB00189	Organic Compounds	Nucleosides, Nucleotides, and Analogues	Purine Nucleotides	Purine Ribonucleotides
+dad_2	deoxyadenosine	C00559	13	Deoxyadenosine	Nucleic acids	13730	3839	HMDB00101	Organic Compounds	Nucleosides, Nucleotides, and Analogues	Purine Nucleosides and Analogues	Purine 2'-deoxyribonucleosides and Analogues
+xtp	xtp	C00700	7	XTP		439296	3968	HMDB00293	Organic Compounds	Nucleosides, Nucleotides, and Analogues	Purine Nucleotides	Purine Ribonucleotides
+3amp	3_amp	C01367	12	3'-AMP		41211	4566	HMDB03540	Organic Compounds	Nucleosides, Nucleotides, and Analogues	Purine Nucleosides and Analogues	N/A
+pcreat	phosphocreatine	C02305	1	Phosphocreatine		9548602	5359	HMDB01511	Organic Compounds	Amino Acids, Peptides, and Analogues	Amino Acids and Derivatives	Alpha Amino Acids and Derivatives
+prostge1	prostaglandin e1	C04741	2	Alprostadil	Lipids	5280723	7312	HMDB01442	Organic Compounds	Lipids	Eicosanoids	Prostaglandins and related compounds
+C05298	2-Hydroxyestrone	C05298	1	2-Hydroxyestrone		440623	7682	HMDB00343	Organic Compounds	Lipids	Steroids and Steroid Derivatives	Estrogens and Derivatives
+C05301	2-Hydroxyestradiol-17beta	C05301	3	2-Hydroxyestradiol	Steroids	247304	7685	HMDB00338	Organic Compounds	Lipids	Steroids and Steroid Derivatives	Estrogens and Derivatives
+hestratriol	4,17 dihydroxy estradiol	C14209	2	4-Hydroxyestradiol-17beta		5282360	7847019	HMDB05896	Organic Compounds	Lipids	Steroids and Steroid Derivatives	Estrogens and Derivatives
+2425dhvitd2	24r,25_dihyoxyvitamin d2	HMDB00430	1	24,25-Dihydroxyvitamin D			12895043	HMDB00430	Organic Compounds	Lipids	Prenol Lipids	Sesterterpenes
+uri	uridine	C00299	13	Uridine	Nucleic acids	6029	3593	HMDB00296	Organic Compounds	Nucleosides, Nucleotides, and Analogues	Pyrimidine Nucleosides and Analogues	N/A
+cytd	cytidine	C00475	9	Cytidine	Nucleic acids	6175	3758	HMDB00089	Organic Compounds	Nucleosides, Nucleotides, and Analogues	Pyrimidine Nucleosides and Analogues	N/A
+xtsn	xanthosine	C01762	3	Xanthosine		64959	4895	HMDB00299	Organic Compounds	Nucleosides, Nucleotides, and Analogues	Purine Nucleosides and Analogues	Purine 2'-deoxyribonucleosides and Analogues
+nmn	nmn	C00455	7	Nicotinamide D-ribonucleotide		14180	3741	HMDB00229	Organic Compounds	Nucleosides, Nucleotides, and Analogues	Pyridine Nucleotides	Nicotinamide Nucleotides
+udp	udp	C00015	58	UDP	Nucleic acids	6031	3317	HMDB00295	Organic Compounds	Nucleosides, Nucleotides, and Analogues	Pyrimidine Nucleotides	Pyrimidine Ribonucleotides
+ump	ump	C00105	46	UMP	Nucleic acids	6030	3405	HMDB00288	Organic Compounds	Nucleosides, Nucleotides, and Analogues	Pyrimidine Nucleotides	Pyrimidine Ribonucleotides
+datp	datp	C00131	15	dATP	Nucleic acids	15993	3431	HMDB01532	Organic Compounds	Nucleosides, Nucleotides, and Analogues	Purine Nucleotides	Purine Deoxyribonucleotides
+gua	guanine	C00242	9	Guanine	Nucleic acids	764	3541	HMDB00132	Organic Compounds	Aromatic Cyclic Compounds	Imidazopyrimidines	Purines and Purine Derivatives
+damp	damp	C00360	13	dAMP	Nucleic acids	12599	3651	HMDB00905	Organic Compounds	Nucleosides, Nucleotides, and Analogues	Purine Nucleotides	Purine Deoxyribonucleotides
+xan	xanthine	C00385	10	Xanthine		1188	3675	HMDB00292	Organic Compounds	Aromatic Cyclic Compounds	Imidazopyrimidines	Purines and Purine Derivatives
+pchol_hs	phosphatidylcholine (homo sapiens)	C00157	18	Phosphatidylcholine	Lipids		3457	HMDB00564	Organic Compounds	Lipids	Glycerophospholipids	Glycerophosphocholines
+cholate	cholate	C00695	16	Cholic acid	Steroids	221493	3963	HMDB00619	Organic Compounds	Lipids	Steroids and Steroid Derivatives	Bile Acids, Alcohols and Derivatives
+4tmeabutn	4_trimethylammoniobutanoate	C01181	3	4-Trimethylammoniobutanoate		134	4408	HMDB01161	Organic Compounds	Lipids	Fatty Acids and Conjugates	Amino Fatty Acids
+C02528	chenodeoxycholate	C02528	7	Chenodeoxycholate	Steroids	10133	5536	HMDB00518	Organic Compounds	Lipids	Steroids and Steroid Derivatives	Bile Acids, Alcohols and Derivatives
+pmtcrn	l_palmitoylcarnitine	C02990	2	L-Palmitoylcarnitine		11953816	5899	HMDB00222	Organic Compounds	Lipids	Fatty Acid Esters	Acyl Carnitines
+hdd2coa	trans_hexadec_2_enoyl_coa	C05272	1	trans-Hexadec-2-enoyl-CoA		25271599	7659	HMDB03945	Organic Compounds	Lipids	Fatty Acid Esters	Acyl CoAs
+lnlncg	gamma_linolenic acid	C06426	4	(6Z,9Z,12Z)-Octadecatrienoic acid	Lipids	5280933	8661	HMDB03073	Organic Compounds	Lipids	Lineolic Acids and Derivatives	N/A
+fad	flavin adenine dinucleotide oxidized	C00016	15	FAD	Vitamins and Cofactors	643975	3318	HMDB01248	Organic Compounds	Nucleosides, Nucleotides, and Analogues	Flavin Nucleotides	N/A
+cmp	cmp	C00055	32	CMP	Nucleic acids	6131	3357	HMDB00095	Organic Compounds	Nucleosides, Nucleotides, and Analogues	Pyrimidine Nucleotides	Pyrimidine Ribonucleotides
+gthox	oxidized glutathione	C00127	24	Glutathione disulfide		65359	3427	HMDB03337	Organic Compounds	Amino Acids, Peptides, and Analogues	Peptides	N/A
+aps	adenosine 5_phosphosulfate	C00224	5	Adenylyl sulfate		10238	3524	HMDB01003	Organic Compounds	Nucleosides, Nucleotides, and Analogues	Purine Nucleotides	Purine Ribonucleotides
+no2	Nitrite	C00088	9	Nitrite		24529	3388	HMDB02786	Inorganic Compounds	Others	Non-metal Oxoanionic Compounds	Non-metal Nitrites
+idp	idp	C00104	13	IDP		6831	3404	HMDB03335	Organic Compounds	Nucleosides, Nucleotides, and Analogues	Purine Nucleotides	Purine Ribonucleotides
+cdp	cdp	C00112	37	CDP	Nucleic acids	6132	3412	HMDB01546	Organic Compounds	Nucleosides, Nucleotides, and Analogues	Pyrimidine Nucleotides	Pyrimidine Ribonucleotides
+imp	imp	C00130	22	IMP		8582	3430	HMDB00175	Organic Compounds	Nucleosides, Nucleotides, and Analogues	Purine Nucleotides	Purine Ribonucleotides
+dcmp	dcmp	C00239	9	dCMP	Nucleic acids	13945	3538	HMDB01202	Organic Compounds	Nucleosides, Nucleotides, and Analogues	Pyrimidine Nucleotides	Pyrimidine Deoxyribonucleotides
+dgdp	dgdp	C00361	12	dGDP	Nucleic acids	439220	3652	HMDB00960	Organic Compounds	Nucleosides, Nucleotides, and Analogues	Purine Nucleotides	Purine Deoxyribonucleotides
+dgmp	dgmp	C00362	8	dGMP	Nucleic acids	65059	3653	HMDB01044	Organic Compounds	Nucleosides, Nucleotides, and Analogues	Purine Nucleotides	Purine Deoxyribonucleotides
+dtdp	dtdp	C00363	19	dTDP	Nucleic acids	164628	3654	HMDB01274	Organic Compounds	Nucleosides, Nucleotides, and Analogues	Pyrimidine Nucleotides	Pyrimidine Deoxyribonucleotides
+xmp	xanthosine 5_phosphate	C00655	10	Xanthosine 5'-phosphate		73323	3925	HMDB01554	Organic Compounds	Nucleosides, Nucleotides, and Analogues	Purine Nucleotides	Purine Ribonucleotides
+35cgmp	3,5_cyclic gmp	C00942	4	3',5'-Cyclic GMP	Nucleic acids	24316	4194	HMDB01314	Organic Compounds	Nucleosides, Nucleotides, and Analogues	Purine Nucleotides	Purine Ribonucleotides
+thmmp	thiamin monophosphate	C01081	13	Thiamin monophosphate		1131	4319	HMDB02666	Organic Compounds	Aromatic Cyclic Compounds	Thiamines	Thiamine Phosphates
+argsuc	n(omega)_(l_arginino)succinate	C03406	2	N-(L-Arginino)succinate	Peptides	16950	6235	HMDB00052	Organic Compounds	Amino Acids, Peptides, and Analogues	Amino Acids and Derivatives	Alpha Amino Acids and Derivatives
+dcamp	n6_(1,2_dicarboxyethyl)_amp	C03794	1	N6-(1,2-Dicarboxyethyl)-AMP		447145	6543	HMDB00536	Organic Compounds	Nucleosides, Nucleotides, and Analogues	Purine Nucleotides	Purine Ribonucleotides
+arg_L	l_arginine	C00062	11	L-Arginine	Peptides	6322	3362	HMDB00517	Organic Compounds	Amino Acids, Peptides, and Analogues	Amino Acids and Derivatives	Alpha Amino Acids and Derivatives
+ala_D	d_alanine	C00133	6	D-Alanine	Peptides	71080	3433	HMDB01310	Organic Compounds	Amino Acids, Peptides, and Analogues	Amino Acids and Derivatives	Alpha Amino Acids and Derivatives
+fru	d_fructose	C00095	12	D-Fructose	Carbohydrates	439163	3395	NA		Others		
+man	d_mannose	C00159	14	D-Mannose	Carbohydrates	18950	3459	HMDB00169	Organic Compounds	Carbohydrates and Carbohydrate Conjugates	Monosaccharides	Hexoses
+malt	maltose	C00208	10	Maltose	Carbohydrates	439186	3508	HMDB00163	Organic Compounds	Carbohydrates and Carbohydrate Conjugates	Disaccharides	Dihexoses
+lcts	lactose	C00243	8	Lactose	Carbohydrates	440995	3542	HMDB00186	Organic Compounds	Carbohydrates and Carbohydrate Conjugates	Disaccharides	Dihexoses
+acgal	n_acetyl_d_galactosamine	C01132	3	N-Acetyl-D-galactosamine	Carbohydrates	35717	4363	NA		Others		
+HC00822	Chitobiose	C01674	2	Chitobiose		439544	4818	HMDB03556	Organic Compounds	Carbohydrates and Carbohydrate Conjugates	Disaccharides	Dihexoses
+C05463	taurodeoxycholate	C05463	5	Taurodeoxycholate		440687	7823	HMDB00896	Organic Compounds	Lipids	Steroids and Steroid Derivatives	Bile Acids, Alcohols and Derivatives
+10fthf	10_formyltetrahydrofolate	C00234	3	10-Formyltetrahydrofolate		122347	3533	HMDB00972	Organic Compounds	Aromatic Cyclic Compounds	Pteridines and Derivatives	Pterins and Derivatives
+fprica	5_formamido_1_(5_phospho_d_ribosyl)imidazole_4_carboxamide	C04734	1	1-(5'-Phosphoribosyl)-5-formamido-4-imidazolecarboxamide		166760	7305	HMDB01439	Organic Compounds	Nucleosides, Nucleotides, and Analogues	Imidazole Nucleosides and Nucleotides	1-Phosphoribosyl-imidazoles
+prostge2	prostaglandin e2	C00584	5	Prostaglandin E2	Lipids	5280360	3863	HMDB01220	Organic Compounds	Lipids	Eicosanoids	Prostaglandins and related compounds
+prostgf2	prostaglandin f2alpha	C00639	2	Prostaglandin F2alpha	Lipids	5280363	3912	HMDB01139	Organic Compounds	Lipids	Eicosanoids	Prostaglandins and related compounds
+prostgd2	prostaglandin d2	C00696	1	Prostaglandin D2	Lipids	448457	3964	HMDB01403	Organic Compounds	Lipids	Eicosanoids	Prostaglandins and related compounds
+C03681	5alpha-Pregnane-3,20-dione	C03681	3	5alpha-Pregnane-3,20-dione		92810	6456	HMDB03759	Organic Compounds	Lipids	Steroids and Steroid Derivatives	Gluco/mineralocorticoids, Progestogins and Derivatives
+C06948	Diazepam	C06948	4	Diazepam		3016	9163	HMDB14967	Organic Compounds	Aromatic Cyclic Compounds	Benzodiazepines	N/A
+HC02194	ursodeoxycholate	C07880	4	Ursodiol	Steroids	31401	10082	HMDB00946	Organic Compounds	Lipids	Steroids and Steroid Derivatives	Bile Acids, Alcohols and Derivatives
+pheme	protoheme	C00032	5	Heme	Vitamins and Cofactors	444097	3334	HMDB03178	Organic Compounds	Aromatic Cyclic Compounds	Tetrapyrroles and Derivatives	Metallotetrapyrroles
+ala_B	beta_alanine	C00099	7	beta-Alanine	Peptides	239	3399	HMDB00056	Organic Compounds	Amino Acids, Peptides, and Analogues	Amino Acids and Derivatives	Beta Amino Acids and Derivatives
+thr_L	l_threonine	C00188	9	L-Threonine	Peptides	6288	3488	HMDB00167	Organic Compounds	Amino Acids, Peptides, and Analogues	Amino Acids and Derivatives	Alpha Amino Acids and Derivatives
+etha	ethanolamine	C00189	10	Ethanolamine	Peptides	700	3489	HMDB00149	Organic Compounds	Aliphatic Acyclic Compounds	Alkylamines	1,2-Aminoalcohols
+bilirub	bilirubin	C00486	8	Bilirubin		5280352	3769	HMDB00054	Organic Compounds	Aromatic Cyclic Compounds	Tetrapyrroles and Derivatives	Bilirubins
+ppp9	protoporphyrin	C02191	7	Protoporphyrin		4971	5261	HMDB00241	Organic Compounds	Aromatic Cyclic Compounds	Tetrapyrroles and Derivatives	Porphyrins
+arachd	arachidonic acid	C00219	13	Arachidonate	Lipids	444899	3519	HMDB01043	Organic Compounds	Lipids	Fatty Acids and Conjugates	Unsaturated Fatty Acids
+guln	l_gulonate	C00800	1	L-Gulonate		6857417	4058	HMDB03290	Organic Compounds	Carbohydrates and Carbohydrate Conjugates	Sugar Acids and Derivatives	N/A
+co2	co2	C00011	7	CO2		280	3313	HMDB01967	Organic Compounds	Aliphatic Acyclic Compounds	N/A	N/A
+glygly	Glycyl-glycine	C02037	6	Glycylglycine		11163	5129	HMDB11733	Organic Compounds	Amino Acids, Peptides, and Analogues	Peptides	N/A
+glyleu	Glycylleucine	C02155	1	Glycyl-leucine		92843	5232	HMDB00759	Organic Compounds	Amino Acids, Peptides, and Analogues	Peptides	N/A
+4hbz	4_hydroxybenzoate	C00156	8	4-Hydroxybenzoate		135	3456	HMDB00500	Organic Compounds	Aromatic Cyclic Compounds	Benzoic Acid and Derivatives	Hydroxybenzoic Acid Derivatives
+carn	l_carnosine	C00386	1	Carnosine	Peptides	439224	3676	HMDB00033	Organic Compounds	Amino Acids, Peptides, and Analogues	Peptidomimetics	Hybrid Peptides
+sql	squalene	C00751	1	Squalene		638072	4013	HMDB00256	Organic Compounds	Lipids	Prenol Lipids	Triterpenes
+dlnlcg	dihomo_gamma_linolenic acid (n_6)	C03242	2	(8Z,11Z,14Z)-Icosatrienoic acid		5280581	6112	HMDB02925	Organic Compounds	Lipids	Fatty Acids and Conjugates	Unsaturated Fatty Acids
+tmndnc	timnodonic acid c20:5, n_3	C06428	6	(5Z,8Z,11Z,14Z,17Z)-Icosapentaenoic acid	Lipids	446284	8663	HMDB01999	Organic Compounds	Lipids	Fatty Acids and Conjugates	Unsaturated Fatty Acids
+chsterol	cholesterol	C00187	13	Cholesterol	Steroids	5997	3487	HMDB00067	Organic Compounds	Lipids	Steroids and Steroid Derivatives	Cholesterols and Derivatives
+5HPET	5_hydroperoxy_6_trans_8,11,14_cis_eicosatetraenoate	C05356	1	5(S)-HPETE	Lipids	5280778	7733	HMDB01193	Organic Compounds	Lipids	Eicosanoids	Hydroperoxyeicosatetraenoic Acids
+crvnc	cervonic acid, c22:6 n_3	C06429	5	(4Z,7Z,10Z,13Z,16Z,19Z)-Docosahexaenoic acid	Lipids	445580	8664	HMDB02183	Organic Compounds	Lipids	Fatty Acids and Conjugates	Unsaturated Fatty Acids
+strdnc	stearidonic acid c18:4, n_3	C16300	1	Stearidonic acid		5312508	47205608	HMDB06547	Organic Compounds	Lipids	Lineolic Acids and Derivatives	N/A
+xylt	xylitol	C00379	3	Xylitol	Carbohydrates	6912	3669	HMDB02917	Organic Compounds	Carbohydrates and Carbohydrate Conjugates	Sugar Alcohols	N/A
+malttr	maltotriose	C01835	4	Maltotriose		439586	4954	HMDB01262	Organic Compounds	Carbohydrates and Carbohydrate Conjugates	Trisaccharides	Trihexoses
+maltttr	Maltotetraose	C02052	1	Maltotetraose		439639	5141	HMDB01296	Organic Compounds	Carbohydrates and Carbohydrate Conjugates	Tetrasaccharides	Tetrahexoses
+maltpt	maltopentaose	HMDB12254	1	Maltopentaose			13489094	HMDB12254	Organic Compounds	Carbohydrates and Carbohydrate Conjugates	Oligosaccharides	Hexose Oligosaccharides
+CE2839	maltodecaose	HMDB12999	3	Maltodecaose		9288182	53481573	HMDB12999	Organic Compounds	Carbohydrates and Carbohydrate Conjugates	Polysaccharides	Polyhexoses
+ap4a	p1,p4_bis(5_adenosyl) tetraphosphate	C01260	2	P1,P4-Bis(5'-adenosyl)tetraphosphate		21706	4479	HMDB01211	Organic Compounds	Nucleosides, Nucleotides, and Analogues	Purine Nucleotides	Purine Ribonucleotides
+acac	acetoacetate	C00164	11	Acetoacetate	Organic acids	96	3464	HMDB00060	Organic Compounds	Organic Acids and Derivatives	Keto-Acids and Derivatives	Beta Keto-Acids and Derivatives
+lpam	lipoamide	C00248	3	Lipoamide		863	3547	HMDB00962	Organic Compounds	Others	Dithiolanes	Lipoamides
+estrone	estrone	C00468	8	Estrone	Steroids!Hormones and transmitters	5870	3751	HMDB00145	Organic Compounds	Lipids	Steroids and Steroid Derivatives	Estrogens and Derivatives
+andrstandn	androstanedione	C00674	1	5alpha-Androstane-3,17-dione		222865	3943	HMDB00899	Organic Compounds	Lipids	Steroids and Steroid Derivatives	Androgens and Derivatives
+crtsl	cortisol	C00735	2	Cortisol	Steroids!Hormones and transmitters	5754	3998	HMDB00063	Organic Compounds	Lipids	Steroids and Steroid Derivatives	Gluco/mineralocorticoids, Progestogins and Derivatives
+cortsn	cortisone	C00762	1	Cortisone	Steroids!Hormones and transmitters	222786	4024	HMDB02802	Organic Compounds	Lipids	Steroids and Steroid Derivatives	Gluco/mineralocorticoids, Progestogins and Derivatives
+bhb	(r)_3_hydroxybutanoate	C01089	7	(R)-3-Hydroxybutanoate	Organic acids	92135	4324	HMDB00011	Organic Compounds	Organic Acids and Derivatives	Hydroxy Acids and Derivatives	Beta Hydroxy Acids and Derivatives
+C02147	dihydrolipoate	C02147	5	Dihydrolipoate		421	5225	HMDB12210	Organic Compounds	Lipids	Fatty Acids and Conjugates	Thia Fatty Acids
+HC02191	lithocholate	C03990	7	Lithocholic acid	Steroids	9903	6705	HMDB00761	Organic Compounds	Lipids	Steroids and Steroid Derivatives	Bile Acids, Alcohols and Derivatives
+ahandrostan	3alpha_hydroxy_5beta_androstan_17_one	C04373	2	Etiocholanolone	Steroids	5880	7015	HMDB00490	Organic Compounds	Lipids	Steroids and Steroid Derivatives	Androgens and Derivatives
+C04483	deoxycholate	C04483	32	Deoxycholic acid	Steroids	222528	7102	HMDB00626	Organic Compounds	Lipids	Steroids and Steroid Derivatives	Bile Acids, Alcohols and Derivatives
+estriol	estriol	C05141	3	Estriol	Steroids!Hormones and transmitters	5756	7560	HMDB00153	Organic Compounds	Lipids	Steroids and Steroid Derivatives	Estrogens and Derivatives
+dgchol	chenodeoxyglycocholate	C05466	2	Glycochenodeoxycholate		12544	7826	HMDB00637	Organic Compounds	Lipids	Steroids and Steroid Derivatives	Bile Acids, Alcohols and Derivatives
+coumarin	coumarin	C05851	4	Coumarin		323	8144	HMDB01218	Organic Compounds	Aromatic Cyclic Compounds	Benzopyrans	Coumarins and Derivatives
+pac	phenylacetic acid	C07086	8	Phenylacetic acid		999	9297	HMDB00209	Organic Compounds	Aromatic Cyclic Compounds	Phenylacetic Acid Derivatives	N/A
+eandrstrn	epiandrosterone	C07635	3	Epiandrosterone		441302	9837	HMDB00365	Organic Compounds	Lipids	Steroids and Steroid Derivatives	Androgens and Derivatives
+HC02193	glycolithocholate	C15557	1	Glycolithocholate		115245	17396549	HMDB00698	Organic Compounds	Lipids	Steroids and Steroid Derivatives	Bile Acids, Alcohols and Derivatives
+CE0737	malonic dialdehyde	C19440	3	Malonaldehyde		10964	124490112	HMDB06112	Organic Compounds	Aliphatic Acyclic Compounds	Carbonyl Compounds	Aldehydes
+CE2209	5alpha-androstane-3alpha,17beta-diol	HMDB00554	1	Dihydroandrosterone			15818	HMDB00554	Organic Compounds	Lipids	Steroids and Steroid Derivatives	Androgens and Derivatives
+pydx	pyridoxal	C00250	11	Pyridoxal	Vitamins and Cofactors	1050	3549	HMDB01545	Organic Compounds	Aromatic Cyclic Compounds	Pyridines and Derivatives	Pyridine Carboxaldehydes
+pydxn	pyridoxine	C00314	3	Pyridoxine	Vitamins and Cofactors	1054	3608	HMDB00239	Organic Compounds	Aromatic Cyclic Compounds	Pyridines and Derivatives	Pyridoxines
+citr_L	l_citrulline	C00327	5	L-Citrulline	Peptides	9750	3621	HMDB00904	Organic Compounds	Amino Acids, Peptides, and Analogues	Amino Acids and Derivatives	Alpha Amino Acids and Derivatives
+gudac	guanidinoacetate	C00581	4	Guanidinoacetate		763	3860	HMDB00128	Organic Compounds	Amino Acids, Peptides, and Analogues	Amino Acids and Derivatives	Alpha Amino Acids and Derivatives
+arg_D	d_arginine	C00792	2	D-Arginine	Peptides	71070	4050	HMDB03416	Organic Compounds	Amino Acids, Peptides, and Analogues	Amino Acids and Derivatives	Alpha Amino Acids and Derivatives
+crm_hs	ceramide (homo sapiens)	C00195	6	N-Acylsphingosine			3495	HMDB04947	Organic Compounds	Lipids	Sphingolipids	Ceramides
+sphmyln_hs	sphingomyelin (homo sapiens)	C00550	9	Sphingomyelin	Lipids		3831	HMDB01348	Organic Compounds	Lipids	Sphingolipids	Sphingomyelins
+galside_hs	galactocerebroside (homo sapiens)	C02686	1	Galactosylceramide	Lipids		5655	HMDB10708	Organic Compounds	Lipids	Sphingolipids	Neutral Glycosphingolipids
+sphings	sphingosine	C00319	7	Sphingosine		5280335	3613	HMDB00252	Organic Compounds	Lipids	Sphingolipids	N/A
+pglyc_hs	phosphatidylglycerol (homo sapiens)	C00344	7	Phosphatidylglycerol	Lipids		3637	NA		Others		
+pa_hs	phosphatidic acid (homo sapiens)	C00416	15	Phosphatidate	Lipids		3706	HMDB00674	Organic Compounds	Lipids	Glycerophospholipids	Glycerophosphates
+hxdcal	hexadecanal	C00517	1	Hexadecanal		984	3800	HMDB01551	Organic Compounds	Lipids	Fatty Aldehydes	N/A
+alpa_hs	lysophosphatidic acid (homo sapiens)	C00681	9	1-Acyl-sn-glycerol 3-phosphate			3950	NA		Others		
+sphgn	sphinganine	C00836	4	Sphinganine		91486	4094	HMDB00269	Organic Compounds	Lipids	Sphingolipids	N/A
+asp_D	d_aspartate	C00402	4	D-Aspartate	Peptides	83887	3692	HMDB06483	Organic Compounds	Amino Acids, Peptides, and Analogues	Amino Acids and Derivatives	Alpha Amino Acids and Derivatives
+cbasp	n_carbamoyl_l_aspartate	C00438	1	N-Carbamoyl-L-aspartate		93072	3727	HMDB00828	Organic Compounds	Amino Acids, Peptides, and Analogues	Amino Acids and Derivatives	Alpha Amino Acids and Derivatives
+dctp	dctp	C00458	16	dCTP	Nucleic acids	65091	3742	HMDB00998	Organic Compounds	Nucleosides, Nucleotides, and Analogues	Pyrimidine Nucleotides	Pyrimidine Deoxyribonucleotides
+Nacasp	n_acetyl_l_aspartate	C01042	3	N-Acetyl-L-aspartate		65065	4284	HMDB00812	Organic Compounds	Amino Acids, Peptides, and Analogues	Amino Acids and Derivatives	Alpha Amino Acids and Derivatives
+pro_L	l_proline	C00148	8	L-Proline	Peptides	145742	3448	HMDB00162	Organic Compounds	Amino Acids, Peptides, and Analogues	Amino Acids and Derivatives	Alpha Amino Acids and Derivatives
+udpgal	udpgalactose	C00052	13	UDP-alpha-D-galactose		23724458	3354	HMDB00302	Organic Compounds	Nucleosides, Nucleotides, and Analogues	Pyrimidine Nucleotides	Pyrimidine Nucleotide Sugars
+gm2_hs	ganglioside gm2 (homo sapiens)	C04884	2	N-Acetyl-D-galactosaminyl-(N-acetylneuraminyl)-D-galactosyl-D-glucosylceramide	Lipids		7436	HMDB04936	Organic Compounds	Lipids	Sphingolipids	Neutral Glycosphingolipids
+gchola	glycocholate	C01921	2	Glycocholate	Steroids	10140	5027	HMDB00138	Organic Compounds	Lipids	Steroids and Steroid Derivatives	Bile Acids, Alcohols and Derivatives
+btamp	biotinyl_5_amp	C05921	1	Biotinyl-5'-AMP		5326875	8209	HMDB04220	Organic Compounds	Nucleosides, Nucleotides, and Analogues	Purine Nucleotides	Purine Ribonucleotides
+caro	beta_carotene	C02094	1	beta-Carotene		5280489	5178	HMDB00561	Organic Compounds	Lipids	Prenol Lipids	Tetraterpenes
+CE1617	9-cis-retinoate	C15493	2	9-cis-Retinoic acid		449171	17396485	HMDB02369	Organic Compounds	Lipids	Prenol Lipids	Retinoids
+retinal_cis_9	cis_9_retinal	C16681	1	9-cis-Retinal		6436082	51091004	HMDB06218	Organic Compounds	Lipids	Prenol Lipids	Retinoids
+retinal_cis_13	cis_13_retinal	HMDB06220	1	13-cis-Retinal			6436079	HMDB06220	Organic Compounds	Lipids	Prenol Lipids	Retinoids
+gal	d_galactose	C00124	10	D-Galactose	Carbohydrates	6036	3424	NA		Others		
+inost	myo_inositol	C00137	10	myo-Inositol	Carbohydrates	892	3437	HMDB00211	Organic Compounds	Others	Cyclic Alcohols and Derivatives	Cyclitols and Derivatives
+xyl_D	d_xylose	C00181	5	D-Xylose	Carbohydrates	135191	3481	HMDB00098	Organic Compounds	Carbohydrates and Carbohydrate Conjugates	Monosaccharides	Hexoses
+glcn	D-gluconate	C00257	1	D-Gluconic acid	Carbohydrates	10690	3556	HMDB00625	Organic Compounds	Carbohydrates and Carbohydrate Conjugates	Sugar Acids and Derivatives	N/A
+arab_L	l_arabinose	C00259	5	L-Arabinose	Carbohydrates	439195	3558	HMDB00646	Organic Compounds	Carbohydrates and Carbohydrate Conjugates	Monosaccharides	Hexoses
+2obut	2_oxobutanoate	C00109	13	2-Oxobutanoate	Organic acids	58	3409	HMDB00005	Organic Compounds	Organic Acids and Derivatives	Keto-Acids and Derivatives	Short-chain Keto Acids and Derivatives
+2hb	2_hydroxybutyrate	C05984	4	2-Hydroxybutanoic acid		440864	8262	HMDB00008	Organic Compounds	Organic Acids and Derivatives	Hydroxy Acids and Derivatives	Short-chain Hydroxy Acids and Derivatives
+sarcs	sarcosine	C00213	2	Sarcosine		1088	3513	HMDB00271	Organic Compounds	Amino Acids, Peptides, and Analogues	Amino Acids and Derivatives	Alpha Amino Acids and Derivatives
+betald	betaine aldehyde	C00576	4	Betaine aldehyde		249	3855	HMDB01252	Organic Compounds	Aliphatic Acyclic Compounds	Alkylamines	Quaternary Ammonium Salts
+pacald	phenylacetaldehyde	C00601	3	Phenylacetaldehyde		998	3876	HMDB06236	Organic Compounds	Aromatic Cyclic Compounds	Phenylacetaldehydes	N/A
+dmgly	n,n_dimethylglycine	C01026	3	N,N-Dimethylglycine		673	4271	HMDB00092	Organic Compounds	Amino Acids, Peptides, and Analogues	Amino Acids and Derivatives	Alpha Amino Acids and Derivatives
+ach	acetylcholine	C01996	6	Acetylcholine	Hormones and transmitters	187	5093	HMDB00895	Organic Compounds	Aliphatic Acyclic Compounds	Alcohols and Polyols	Cholines
+C04308	Phosphatidyl-N-dimethylethanolamine	C04308	4	Phosphatidyl-N-dimethylethanolamine			6966	HMDB32231	Organic Compounds	Aliphatic Acyclic Compounds	Alkylamines	N/A
+Lcystin	l_cystine	C00491	2	L-Cystine		67678	3774	HMDB00192	Organic Compounds	Amino Acids, Peptides, and Analogues	Amino Acids and Derivatives	Alpha Amino Acids and Derivatives
+biliverd	biliverdin	C00500	4	Biliverdin		5280353	3783	HMDB01008	Organic Compounds	Aromatic Cyclic Compounds	Tetrapyrroles and Derivatives	N/A
+mi14p	1d_myo_inositol 1,4_bisphosphate	C01220	2	1D-myo-Inositol 1,4-bisphosphate		439444	4442	HMDB00968	Organic Compounds	Others	Cyclic Alcohols and Derivatives	Cyclitols and Derivatives
+btn	biotin	C00120	1	Biotin	Vitamins and Cofactors	171548	3420	HMDB00030	Organic Compounds	Others	Thienoimidazolidines	Biotin and Derivatives
+cala	n_carbamoyl_beta_alanine	C02642	2	3-Ureidopropionate		111	5621	HMDB00026	Organic Compounds	Aliphatic Acyclic Compounds	Alkylamines	1,3-Aminoalcohols
+3uib	3_ureidoisobutyrate	C05100	1	3-Ureidoisobutyrate		160663	7529	HMDB02031	Organic Compounds	Aliphatic Acyclic Compounds	Alkylamines	1,3-Aminoalcohols
+xol25oh	25_hydroxycholesterol	C15519	3	25-Hydroxycholesterol		65094	17396511	HMDB06247	Organic Compounds	Lipids	Steroids and Steroid Derivatives	Cholesterols and Derivatives
+occoa	octanoyl_coa (n_c8:0coa)	C01944	8	Octanoyl-CoA		445344	5048	HMDB01070	Organic Compounds	Lipids	Fatty Acid Esters	Acyl CoAs
+omeprazole	omeprazole	C07324	6	Omeprazole		4594	9532	HMDB01913	Organic Compounds	Aromatic Cyclic Compounds	Benzimidazoles	Sulfinylbenzimidazoles
+oh1	hydroxide ion	C01328	2	HO-		961	4539	HMDB01039	Inorganic Compounds	Others	Other Non-metal Organides	Other Non-metal Oxides
+ocdca	octadecanoate (n_c18:0)	C01530	5	Octadecanoic acid	Lipids	5281	4692	HMDB00827	Organic Compounds	Lipids	Fatty Acids and Conjugates	Straight Chain Fatty Acids
+cbl1	cob(i)alamin	C00853	1	Cob(I)alamin		46173708	4110	HMDB03429	Organic Compounds	Aromatic Cyclic Compounds	Tetrapyrroles and Derivatives	Metallotetrapyrroles
+dttp	dttp	C00459	27	dTTP	Nucleic acids	64968	3743	HMDB01342	Organic Compounds	Nucleosides, Nucleotides, and Analogues	Pyrimidine Nucleotides	Pyrimidine Deoxyribonucleotides
+cdpdag_hs	cdp diacylglycerol (homo sapiens)	C00269	2	CDP-diacylglycerol			3567	NA		Others		
+pe_hs	phosphatidylethanolamine (homo sapiens)	C00350	13	Phosphatidylethanolamine	Lipids		3643	HMDB05779	Organic Compounds	Lipids	Glycerophospholipids	Glycerophosphoethanolamines
+1a25dhvitd3	1_alpha,25_dihydroxyvitamin d3	C01673	1	Calcitriol	Hormones and transmitters	5280453	4817	HMDB01903	Organic Compounds	Lipids	Prenol Lipids	Sesterterpenes
+HC01842	Phosphodimethylethanolamine	C13482	3	Phosphodimethylethanolamine		151438	586220	NA		Others		
+hista	histamine	C00388	4	Histamine	Peptides!Hormones and transmitters	774	3678	HMDB00870	Organic Compounds	Aromatic Cyclic Compounds	Azoles	Imidazoles
+chtn	chitin	C00461	2	Chitin			3745	HMDB03362	Organic Compounds	Carbohydrates and Carbohydrate Conjugates	Trisaccharides	Trihexoses
+C07535	Benzpyrene	C07535	1	Benzo[a]pyrene		2336	9738	NA		Others		
+val_L	l_valine	C00183	12	L-Valine	Peptides	6287	3483	HMDB00883	Organic Compounds	Amino Acids, Peptides, and Analogues	Amino Acids and Derivatives	Alpha Amino Acids and Derivatives
+ile_L	l_isoleucine	C00407	6	L-Isoleucine	Peptides	6306	3697	HMDB00172	Organic Compounds	Amino Acids, Peptides, and Analogues	Amino Acids and Derivatives	Alpha Amino Acids and Derivatives
+coke	cocaine	C01416	1	Cocaine		446220	4603	HMDB15043	Organic Compounds	Aromatic Cyclic Compounds	Benzoic Acid and Derivatives	N/A
+xol24oh	24_hydroxycholesterol	C13550	2	Cerebrosterol		121948	7846926	HMDB01419	Organic Compounds	Lipids	Steroids and Steroid Derivatives	Cholesterols and Derivatives
+CE4877	15-deoxy-prostaglandin J2	C14717	4	15-Deoxy-delta-12,14-PGJ2		5311211	17395716	HMDB05079	Organic Compounds	Lipids	Eicosanoids	Prostaglandins and related compounds
+C14770	11,12-EET	C14770	1	11,12-EET		5283204	17395768	HMDB04673	Organic Compounds	Lipids	Eicosanoids	Hepoxilins
+xol27oh	27_hydroxycholesterol	C15610	1	Cholest-5-ene-3beta,26-diol		99470	17396601	NA		Others		
+ribflv	riboflavin	C00255	3	Riboflavin	Vitamins and Cofactors	493570	3554	HMDB00244	Organic Compounds	Aromatic Cyclic Compounds	Pteridines and Derivatives	Alloxazines and Isoalloxazines
+cpppg3	coproporphyrinogen iii	C03263	2	Coproporphyrinogen III		321	6127	HMDB01261	Organic Compounds	Aromatic Cyclic Compounds	Tetrapyrroles and Derivatives	Porphyrins
+cpppg1	Coproporphyrinogen I	C05768	3	Coproporphyrinogen I		440776	8063	HMDB02158	Organic Compounds	Aromatic Cyclic Compounds	Tetrapyrroles and Derivatives	Porphyrins
+acrn	o_acetylcarnitine	C02571	1	O-Acetylcarnitine		439756	5567	HMDB00201	Organic Compounds	Lipids	Fatty Acid Esters	Acyl Carnitines
+orot5p	orotidine 5_phosphate	C01103	4	Orotidine 5'-phosphate		160617	4337	HMDB00218	Organic Compounds	Nucleosides, Nucleotides, and Analogues	Pyrimidine Nucleotides	Pyrimidine Ribonucleotides
+tsul	thiosulfate	C00320	4	Thiosulfate		439208	3614	HMDB00257	Inorganic Compounds	Others	Non-metal Oxoanionic Compounds	Non-metal Thiosulfates
+HC00955	L-3-Cyanoalanine	C02512	1	3-Cyano-L-alanine		439742	5522	HMDB60245	Organic Compounds	Organic Acids and Derivatives	Carboxylic Acids and Derivatives	Amino Acids, Peptides, and Analogues
+CE1310	N-acetyl-L-cysteine	C06809	7	Acetylcysteine		12035	9028	HMDB01890	Organic Compounds	Amino Acids, Peptides, and Analogues	Amino Acids and Derivatives	Alpha Amino Acids and Derivatives
+rib_D	d_ribose	C00121	6	D-Ribose	Carbohydrates	5779	3421	HMDB00283	Organic Compounds	Carbohydrates and Carbohydrate Conjugates	Monosaccharides	Pentoses
+dtmp	dtmp	C00364	6	dTMP	Nucleic acids	9700	3655	HMDB01227	Organic Compounds	Nucleosides, Nucleotides, and Analogues	Pyrimidine Nucleotides	Pyrimidine Deoxyribonucleotides
+dutp	dutp	C00460	9	dUTP	Nucleic acids	65070	3744	HMDB01191	Organic Compounds	Nucleosides, Nucleotides, and Analogues	Pyrimidine Nucleotides	Pyrimidine Deoxyribonucleotides
+duri	deoxyuridine	C00526	5	Deoxyuridine	Nucleic acids	13712	3809	HMDB00012	Organic Compounds	Nucleosides, Nucleotides, and Analogues	Pyrimidine Nucleosides and Analogues	Pyrimidine 2'-deoxyribonucleosides and Analogues
+dadp	dadp	C00206	7	dADP	Nucleic acids	188966	3506	HMDB01508	Organic Compounds	Nucleosides, Nucleotides, and Analogues	Purine Nucleotides	Purine Deoxyribonucleotides
+dcdp	dcdp	C00705	7	dCDP	Nucleic acids	150855	3972	HMDB01245	Organic Compounds	Nucleosides, Nucleotides, and Analogues	Pyrimidine Nucleotides	Pyrimidine Deoxyribonucleotides
+5aop	5_amino_4_oxopentanoate	C00430	1	5-Aminolevulinate		137	3719	HMDB01149	Organic Compounds	Amino Acids, Peptides, and Analogues	Amino Acids and Derivatives	Delta Amino Acids and Derivatives
+3aib_D	d_3_amino_isobutanoate	C01205	1	(R)-3-Amino-2-methylpropanoate		5459822	4429	HMDB02299	Organic Compounds	Amino Acids, Peptides, and Analogues	Amino Acids and Derivatives	Beta Amino Acids and Derivatives
+dag_hs	diacylglycerol (homo sapiens)	C00165	2	Diacylglycerol			3465	HMDB07098	Organic Compounds	Lipids	Glycerolipids	Diacylglycerols
+C13856	2-Arachidonoylglycerol	C13856	2	2-Arachidonoylglycerol		5282280	854101	HMDB04666	Organic Compounds	Lipids	Fatty Amides	Endocannabinoids
+sucsal	succinic semialdehyde	C00232	5	Succinate semialdehyde	Organic acids	1112	3531	HMDB01259	Organic Compounds	Lipids	Fatty Acids and Conjugates	Straight Chain Fatty Acids
+crtn	creatinine	C00791	1	Creatinine		588	4049	HMDB00562	Organic Compounds	Others	Lactams	N/A
+dpcoa	dephospho_coa	C00882	5	Dephospho-CoA		444485	4138	HMDB01373	Organic Compounds	Nucleosides, Nucleotides, and Analogues	Purine Nucleotides	Purine Ribonucleotides
+1pipdn2c	delta1_piperideine_2_carboxylate	C04092	1	delta1-Piperideine-2-carboxylate		1194	6784	HMDB01084	Organic Compounds	Amino Acids, Peptides, and Analogues	Amino Acids and Derivatives	Alpha Amino Acids and Derivatives
+dump	dump	C00365	6	dUMP	Nucleic acids	65063	3656	HMDB01409	Organic Compounds	Nucleosides, Nucleotides, and Analogues	Pyrimidine Nucleotides	Pyrimidine Deoxyribonucleotides
+dcyt	deoxycytidine	C00881	3	Deoxycytidine	Nucleic acids	13711	4137	HMDB00014	Organic Compounds	Nucleosides, Nucleotides, and Analogues	Pyrimidine Nucleosides and Analogues	Pyrimidine 2'-deoxyribonucleosides and Analogues
+dudp	dudp	C01346	6	dUDP	Nucleic acids	145729	4551	HMDB01000	Organic Compounds	Nucleosides, Nucleotides, and Analogues	Pyrimidine Nucleotides	Pyrimidine Deoxyribonucleotides
+ddcacoa	dodecanoyl_coa (n_c12:0coa)	C01832	5	Lauroyl-CoA		165436	4951	HMDB03571	Organic Compounds	Lipids	Fatty Acid Esters	Acyl CoAs
+ocdcya	octadecadienoate (n_c18:2)	C04056	1	9-cis,11-trans-Octadecadienoate		5280644	6756	HMDB03797	Organic Compounds	Lipids	Lineolic Acids and Derivatives	N/A
+ditp	ditp	C01345	3	dITP		146302	4550	HMDB03537	Organic Compounds	Nucleosides, Nucleotides, and Analogues	Purine Nucleotides	Purine Deoxyribonucleotides
+dimp	dimp	C06196	1	2'-Deoxyinosine 5'-phosphate		91531	8446	HMDB06555	Organic Compounds	Nucleosides, Nucleotides, and Analogues	Purine Nucleotides	Purine Deoxyribonucleotides
+glyc3p	glycerol 3_phosphate	C00093	7	sn-Glycerol 3-phosphate		439162	3393	HMDB00126	Organic Compounds	Carbohydrates and Carbohydrate Conjugates	Monosaccharides	Monosaccharide Phosphates
+7dhchsterol	7_dehydrocholesterol	C01164	1	7-Dehydrocholesterol	Steroids	439423	4391	HMDB00032	Organic Compounds	Lipids	Steroids and Steroid Derivatives	Cholesterols and Derivatives
+thf	5,6,7,8_tetrahydrofolate	C00101	7	Tetrahydrofolate	Vitamins and Cofactors	91443	3401	HMDB01846	Organic Compounds	Aromatic Cyclic Compounds	Pteridines and Derivatives	Pterins and Derivatives
+dhf	7,8_dihydrofolate	C00415	6	Dihydrofolate		98792	3705	HMDB01056	Organic Compounds	Aromatic Cyclic Compounds	Pteridines and Derivatives	Pterins and Derivatives
+5mthf	5_methyltetrahydrofolate	C00440	4	5-Methyltetrahydrofolate		9825434	3729	HMDB01396	Organic Compounds	Aromatic Cyclic Compounds	Pteridines and Derivatives	Pterins and Derivatives
+dhor_S	(s)_dihydroorotate	C00337	2	(S)-Dihydroorotate		439216	3630	HMDB00528	Organic Compounds	Others	Diazines	Pyrimidines and Pyrimidine Derivatives
+ipdp	isopentenyl diphosphate	C00129	4	Isopentenyl diphosphate		1195	3429	HMDB01347	Organic Compounds	Aliphatic Acyclic Compounds	Organic Oxoanionic Compounds	Organic Pyrophosphates
+udpg	udpglucose	C00029	20	UDP-glucose	Vitamins and Cofactors	8629	3331	HMDB00286	Organic Compounds	Nucleosides, Nucleotides, and Analogues	Pyrimidine Nucleotides	Pyrimidine Nucleotide Sugars
+thmpp	thiamine diphosphate	C00068	3	Thiamin diphosphate	Vitamins and Cofactors	1132	3368	HMDB01372	Organic Compounds	Aromatic Cyclic Compounds	Thiamines	Thiamine Phosphates
+gdpmann	gdp_d_mannose	C00096	9	GDP-mannose		18396	3396	HMDB01163	Organic Compounds	Nucleosides, Nucleotides, and Analogues	Purine Nucleotides	Purine Nucleotide Sugars
+ncam	nicotinamide	C00153	4	Nicotinamide	Vitamins and Cofactors	936	3453	HMDB01406	Organic Compounds	Aromatic Cyclic Compounds	Pyridines and Derivatives	N/A
+cdpchol	cdpcholine	C00307	2	CDP-choline		13804	3601	HMDB01413	Organic Compounds	Nucleosides, Nucleotides, and Analogues	Pyrimidine Nucleotides	Pyrimidine Ribonucleotides
+dolichol_L	dolichol, human liver homolog	C00381	2	Dolichol		24892719	3671	HMDB05176	Organic Compounds	Lipids	Prenol Lipids	Polyterpenes
+frdp	farnesyl diphosphate	C00448	6	trans,trans-Farnesyl diphosphate		445713	3736	HMDB00961	Organic Compounds	Lipids	Prenol Lipids	Sesquiterpenes
+udpglcur	udp_d_glucuronate	C00167	7	UDP-glucuronate		17473	3467	HMDB00935	Organic Compounds	Nucleosides, Nucleotides, and Analogues	Pyrimidine Nucleotides	Pyrimidine Nucleotide Sugars
+grdp	geranyl diphosphate	C00341	4	Geranyl diphosphate		445995	3634	HMDB01285	Organic Compounds	Aliphatic Acyclic Compounds	Organic Oxoanionic Compounds	Organic Pyrophosphates
+mev_R	(r)_mevalonate	C00418	5	(R)-Mevalonate		439230	3708	HMDB00227	Organic Compounds	Organic Acids and Derivatives	Hydroxy Acids and Derivatives	Beta Hydroxy Acids and Derivatives
+5pmev	(r)_5_phosphomevalonate	C01107	2	(R)-5-Phosphomevalonate		439400	4339	HMDB01343	Organic Compounds	Organic Acids and Derivatives	Hydroxy Acids and Derivatives	Beta Hydroxy Acids and Derivatives
+rbl_D	d_ribulose	C00309	1	D-Ribulose	Carbohydrates	439203	3603	HMDB00621	Organic Compounds	Carbohydrates and Carbohydrate Conjugates	Monosaccharides	Pentoses
+xylu_D	d_xylulose	C00310	3	D-Xylulose	Carbohydrates	439204	3604	HMDB01644	Organic Compounds	Carbohydrates and Carbohydrate Conjugates	Monosaccharides	Pentoses
+ura	uracil	C00106	9	Uracil	Nucleic acids	1174	3406	HMDB00300	Organic Compounds	Aromatic Cyclic Compounds	Diazines	Pyrimidines and Pyrimidine Derivatives
+56dura	5,6_dihydrouracil	C00429	1	5,6-Dihydrouracil		649	3718	HMDB00076	Organic Compounds	Others	Diazines	Pyrimidines and Pyrimidine Derivatives
+2pg	d_glycerate 2_phosphate	C00631	1	2-Phospho-D-glycerate		439278	3904	HMDB03391	Organic Compounds	Carbohydrates and Carbohydrate Conjugates	Sugar Acids and Derivatives	N/A
+cdpea	cdpethanolamine	C00570	2	CDP-ethanolamine		123727	3849	HMDB01564	Organic Compounds	Nucleosides, Nucleotides, and Analogues	Pyrimidine Nucleotides	Pyrimidine Ribonucleotides
+2ameph	(2_aminoethyl)phosphonate	C03557	2	2-Aminoethylphosphonate		339	6353	HMDB11747	Organic Compounds	Others	Organic Phosphonic Acids and Derivatives	Organic Phosphonic Acids
+C04295	Androst-5-ene-3beta,17beta-diol	C04295	1	Androstenediol	Steroids	10634	6955	HMDB03818	Organic Compounds	Lipids	Steroids and Steroid Derivatives	Androgens and Derivatives
+C05300	16alpha-Hydroxyestrone	C05300	1	16alpha-Hydroxyestrone	Hormones and transmitters	115116	7684	HMDB00313	Organic Compounds	Lipids	Steroids and Steroid Derivatives	Estrogens and Derivatives
+ocdcaACP	octadecanoyl_acp (n_c18:0acp)	C04088	1	Octadecanoyl-[acyl-carrier protein]			6780	NA		Others		
+f26bp	d_fructose 2,6_bisphosphate	C00665	6	beta-D-Fructose 2,6-bisphosphate		105021	3934	HMDB01047	Organic Compounds	Carbohydrates and Carbohydrate Conjugates	Monosaccharides	Pentoses
+2dr5p	2_deoxy_d_ribose 5_phosphate	C00673	1	2-Deoxy-D-ribose 5-phosphate		439288	3942	HMDB01031	Organic Compounds	Carbohydrates and Carbohydrate Conjugates	Monosaccharides	Pentoses
+f1p	d_fructose 1_phosphate	C01094	11	D-Fructose 1-phosphate		439394	4329	HMDB01076	Organic Compounds	Carbohydrates and Carbohydrate Conjugates	Monosaccharides	Pentoses
+tolbutamide	tolbutamide	C07148	3	Tolbutamide		5505	9357	HMDB15256	Organic Compounds	Aromatic Cyclic Compounds	Benzenesulfonamides	N/A
+gdpfuc	gdp_l_fucose	C00325	2	GDP-L-fucose		10918995	3619	HMDB01095	Organic Compounds	Nucleosides, Nucleotides, and Analogues	Purine Nucleotides	Purine Nucleotide Sugars
+fuc_L	l_fucose	C01019	3	6-Deoxy-L-galactose	Carbohydrates	17106	4264	HMDB00174	Organic Compounds	Carbohydrates and Carbohydrate Conjugates	Monosaccharides	Hexoses
+ggdp	geranylgeranyl diphosphate	C00353	2	Geranylgeranyl diphosphate		447277	3646	HMDB04486	Organic Compounds	Lipids	Prenol Lipids	Diterpenes
+5fthf	5_formyltetrahydrofolate	C03479	3	Folinic acid		143	6294	HMDB01562	Organic Compounds	Aromatic Cyclic Compounds	Pteridines and Derivatives	Pterins and Derivatives
+5dhf	pentaglutamyl folate (dhf)	HMDB06487	3	Pentaglutamyl folate		77494	73374	HMDB06487	Organic Compounds	Aromatic Cyclic Compounds	Pteridines and Derivatives	Pterins and Derivatives
+cynt	Cyanate	C01417	2	Cyanate		540	4604	HMDB02078	Organic Compounds	Aliphatic Acyclic Compounds	Nitriles	N/A
+mescon	mesaconate	C01732	1	Mesaconate		638129	4868	HMDB00749	Organic Compounds	Lipids	Fatty Acids and Conjugates	Branched Fatty Acids
+dtdpglu	dtdpglucose	C00842	5	dTDP-glucose		443210	4099	HMDB01328	Organic Compounds	Nucleosides, Nucleotides, and Analogues	Pyrimidine Nucleotides	Pyrimidine Nucleotide Sugars
+dtdprmn	dtdp_l_rhamnose	C03319	1	dTDP-L-rhamnose		121966	6171	HMDB06354	Organic Compounds	Nucleosides, Nucleotides, and Analogues	Pyrimidine Nucleotides	Pyrimidine Nucleotide Sugars
+avite1	alpha_tocopherol	C02477	3	alpha-Tocopherol	Vitamins and Cofactors	14985	5492	HMDB01893	Organic Compounds	Lipids	Prenol Lipids	Quinone and Hydroquinone Lipids
+gm3_hs	ganglioside gm3 (homo sapiens)	C04730	3	GM3	Lipids		7301	HMDB04842	Organic Compounds	Lipids	Sphingolipids	Neutral Glycosphingolipids
+gm1_hs	ganglioside gm1 (homo sapiens)	C04911	3	D-Galactosyl-N-acetyl-D-galactosaminyl-(N-acetylneuraminyl)-D-galactosyl-D-glucosylceramide	Lipids		7461	HMDB04853	Organic Compounds	Lipids	Sphingolipids	Neutral Glycosphingolipids
+gd3_hs	gd3 (homo sapiens)	C06133	2	GD3			8390	HMDB04911	Organic Compounds	Lipids	Sphingolipids	Neutral Glycosphingolipids
+gal1p	alpha_d_galactose 1_phosphate	C00446	4	alpha-D-Galactose 1-phosphate		123912	3734	HMDB00645	Organic Compounds	Carbohydrates and Carbohydrate Conjugates	Monosaccharides	Hexoses
+udpacgal	udp_n_acetyl_d_galactosamine	C00203	4	UDP-N-acetyl-D-galactosamine		23724461	3503	HMDB00304	Organic Compounds	Nucleosides, Nucleotides, and Analogues	Pyrimidine Nucleotides	Pyrimidine Nucleotide Sugars
+udpxyl	udp_d_xylose	C00190	5	UDP-D-xylose		23724459	3490	HMDB01018	Organic Compounds	Nucleosides, Nucleotides, and Analogues	Pyrimidine Nucleotides	Pyrimidine Nucleotide Sugars
+13dpg	3_phospho_d_glyceroyl phosphate	C00236	4	3-Phospho-D-glyceroyl phosphate		439191	3535	HMDB01270	Organic Compounds	Others	Organic Phosphoric Acids and Derivatives	Organophosphate Esters
+glyclt	glycolate	C00160	7	Glycolate		757	3460	HMDB00115	Organic Compounds	Organic Acids and Derivatives	Hydroxy Acids and Derivatives	Alpha Hydroxy Acids and Derivatives
+gcald	glycolaldehyde	C00266	3	Glycolaldehyde		756	3564	HMDB03344	Organic Compounds	Aliphatic Acyclic Compounds	Alcohols and Polyols	Primary Alcohols
+pydam	pyridoxamine	C00534	5	Pyridoxamine	Vitamins and Cofactors	1052	3816	HMDB01431	Organic Compounds	Aromatic Cyclic Compounds	Pyridines and Derivatives	Pyridoxamines
+pdx5p	pyridoxine 5_phosphate	C00627	2	Pyridoxine phosphate		1055	3900	HMDB01319	Organic Compounds	Aromatic Cyclic Compounds	Pyridines and Derivatives	Pyridoxines
+dhlam	dihydrolipoamide	C00579	1	Dihydrolipoamide		663	3858	HMDB00985	Organic Compounds	Aliphatic Acyclic Compounds	Thiols	Alkylthiols
+methf	5,10_methenyltetrahydrofolate	C00445	1	5,10-Methenyltetrahydrofolate		439237	3733	HMDB01354	Organic Compounds	Aromatic Cyclic Compounds	Pteridines and Derivatives	Pterins and Derivatives
+malthx	Maltohexaose	C01936	1	Maltohexaose		439606	5041	HMDB12253	Organic Compounds	Carbohydrates and Carbohydrate Conjugates	Oligosaccharides	Hexose Oligosaccharides
+malthp	maltoheptaose	HMDB13000	1	Maltoheptaose		1108364	53481574	HMDB13000	Organic Compounds	Carbohydrates and Carbohydrate Conjugates	Oligosaccharides	Hexose Oligosaccharides
+CE2838	maltononaose	HMDB13001	1	Maltononaose		8964129	53481575	HMDB13001	Organic Compounds	Carbohydrates and Carbohydrate Conjugates	Oligosaccharides	Hexose Oligosaccharides
+estradiolglc	estradiol glucuronide	C05503	1	Estradiol-17beta 3-glucuronide		440713	7856	HMDB06224	Organic Compounds	Lipids	Steroids and Steroid Derivatives	Steroidal Glycosides
+dolp_L	dolichol phosphate, human liver homolog	C00110	2	Dolichyl phosphate		24892715	3410	HMDB06353	Organic Compounds	Lipids	Prenol Lipids	Sesquiterpenes
+naglc2p_L	n_acetyl_d_glucosaminyldiphosphodolichol, human liver homolog	C04500	1	N-Acetyl-D-glucosaminyldiphosphodolichol		24892748	7114	HMDB01445	Organic Compounds	Lipids	Prenol Lipids	Sesquiterpenes
+taur	taurine	C00245	1	Taurine		1123	3544	HMDB00251	Organic Compounds	Organic Acids and Derivatives	Sulfonic Acids and Derivatives	N/A
+adpglc	adpglucose	C00498	6	ADP-glucose		16500	3781	HMDB06557	Organic Compounds	Nucleosides, Nucleotides, and Analogues	Purine Nucleotides	Purine Nucleotide Sugars
+23dpg	2,3_disphospho_d_glycerate	C01159	2	2,3-Bisphospho-D-glycerate		186004	4387	HMDB01294	Organic Compounds	Carbohydrates and Carbohydrate Conjugates	Sugar Acids and Derivatives	N/A
+man1p	d_mannose 1_phosphate	C00636	5	D-Mannose 1-phosphate		439279	3909	HMDB06330	Organic Compounds	Carbohydrates and Carbohydrate Conjugates	Monosaccharides	Hexoses
+tre	trehalose	C01083	3	alpha,alpha-Trehalose	Carbohydrates	7427	4320	HMDB00975	Organic Compounds	Carbohydrates and Carbohydrate Conjugates	Disaccharides	Dihexoses
+adpman	adpmannose	C06192	1	ADP-mannose		440940	8442	HMDB06369	Organic Compounds	Nucleosides, Nucleotides, and Analogues	Purine Nucleotides	Purine Nucleotide Sugars
+4hpro_LT	trans_4_hydroxy_l_proline	C01157	2	Hydroxyproline	Peptides	5810	4385	HMDB00725	Organic Compounds	Amino Acids, Peptides, and Analogues	Amino Acids and Derivatives	Alpha Amino Acids and Derivatives
+5oxpro	5_oxoproline	C01879	3	Pidolic acid	Peptides	7405	4992	HMDB00267	Organic Compounds	Others	Pyrrolidines	Pyrrolidine Carboxylic Acids and Derivatives
+hom_L	l_homoserine	C00263	3	L-Homoserine	Peptides	12647	3561	HMDB00719	Organic Compounds	Amino Acids, Peptides, and Analogues	Amino Acids and Derivatives	Alpha Amino Acids and Derivatives
+thym	thymine	C00178	3	Thymine	Nucleic acids	1135	3478	HMDB00262	Organic Compounds	Aromatic Cyclic Compounds	Diazines	Pyrimidines and Pyrimidine Derivatives
+ru5p_D	d_ribulose 5_phosphate	C00199	1	D-Ribulose 5-phosphate		439184	3499	NA		Others		
+vacccoa	vaccenyl coenzyme a	HMDB06521	1	cis-Vaccenoyl CoA		1276506	53477847	HMDB06521	Organic Compounds	Lipids	Fatty Acid Esters	Acyl CoAs
+melatn	melatonin	C01598	4	Melatonin	Hormones and transmitters	896	4752	HMDB01389	Organic Compounds	Aromatic Cyclic Compounds	Indoles	Tryptamines and Derivatives
+dhbpt	6,7_dihydrobiopterin	C00268	3	Dihydrobiopterin		133246	3566	HMDB02215	Organic Compounds	Aromatic Cyclic Compounds	Pteridines and Derivatives	Pterins and Derivatives
+thbpt	tetrahydrobiopterin	C00272	6	Tetrahydrobiopterin	Vitamins and Cofactors	44257	3570	HMDB00027	Organic Compounds	Aromatic Cyclic Compounds	Pteridines and Derivatives	Pterins and Derivatives
+CE2705	quinonoid dihydrobiopterin	C02953	3	7,8-Dihydrobiopterin		119055	5871	HMDB00038	Organic Compounds	Aromatic Cyclic Compounds	Pteridines and Derivatives	Pterins and Derivatives
+mi145p	1d_myo_inositol 1,4,5_trisphosphate	C01245	3	D-myo-Inositol 1,4,5-trisphosphate		439456	4466	HMDB01498	Organic Compounds	Others	Cyclic Alcohols and Derivatives	Cyclitols and Derivatives
+aldstrn	aldosterone	C01780	2	Aldosterone	Steroids!Hormones and transmitters	5839	4910	HMDB00037	Organic Compounds	Lipids	Steroids and Steroid Derivatives	Gluco/mineralocorticoids, Progestogins and Derivatives
+urate	urate	C00366	4	Urate		1175	3657	HMDB00289	Organic Compounds	Aromatic Cyclic Compounds	Imidazopyrimidines	Purines and Purine Derivatives
+prpp	5_phospho_alpha_d_ribose 1_diphosphate	C00119	2	5-Phospho-alpha-D-ribose 1-diphosphate		7339	3419	HMDB00280	Organic Compounds	Carbohydrates and Carbohydrate Conjugates	Monosaccharides	Pentoses
+acglu	n_acetyl_l_glutamate	C00624	2	N-Acetyl-L-glutamate		70914	3897	HMDB01138	Organic Compounds	Amino Acids, Peptides, and Analogues	Amino Acids and Derivatives	Alpha Amino Acids and Derivatives
+srb_L	L-Sorbose	C00247	3	L-Sorbose	Carbohydrates	439192	3546	NA		Others		
+man6p	d_mannose 6_phosphate	C00275	4	D-Mannose 6-phosphate		65127	3572	HMDB01078	Organic Compounds	Carbohydrates and Carbohydrate Conjugates	Monosaccharides	Hexoses
+4hphac	4_hydroxyphenylacetate	C00642	4	4-Hydroxyphenylacetate		127	3915	HMDB00020	Organic Compounds	Aromatic Cyclic Compounds	Phenols and Derivatives	Tyrosols and Derivatives
+urcan	urocanate	C00785	1	Urocanate		736715	4043	HMDB00301	Organic Compounds	Aromatic Cyclic Compounds	Azoles	Imidazoles
+Lfmkynr	l_formylkynurenine	C02700	1	L-Formylkynurenine		439788	5664	HMDB60485	Organic Compounds	Others	Benzene and Substituted Derivatives	Butyrophenones
+hmgcoa	hydroxymethylglutaryl_coa	C00356	2	(S)-3-Hydroxy-3-methylglutaryl-CoA		445127	3649	HMDB01375	Organic Compounds	Lipids	Fatty Acid Esters	Acyl CoAs
+C05299	2-Methoxyestrone	C05299	1	2-Methoxyestrone		440624	7683	HMDB00010	Organic Compounds	Lipids	Steroids and Steroid Derivatives	Estrogens and Derivatives
+vitd3	vitamin d3	C05443	1	Vitamin D3	Vitamins and Cofactors	5280795	7805	HMDB00876	Organic Compounds	Lipids	Prenol Lipids	Sesterterpenes
+itacon	itaconate	C00490	1	Itaconate		811	3773	HMDB02092	Organic Compounds	Organic Acids and Derivatives	Carboxylic Acids and Derivatives	Dicarboxylic Acids and Derivatives
+dmpp	dimethylallyl diphosphate	C00235	2	Dimethylallyl diphosphate		647	3534	HMDB01120	Organic Compounds	Aliphatic Acyclic Compounds	Organic Oxoanionic Compounds	Organic Pyrophosphates
+tagat_D	d_tagatose	C00795	1	D-Tagatose	Carbohydrates	439312	4053	HMDB03418	Organic Compounds	Carbohydrates and Carbohydrate Conjugates	Monosaccharides	Hexoses
+glyc_R	(r)_glycerate	C00258	2	D-Glycerate		439194	3557	HMDB00139	Organic Compounds	Carbohydrates and Carbohydrate Conjugates	Sugar Acids and Derivatives	N/A
+crmp_hs	ceramide 1_phosphate	C02960	3	Ceramide 1-phosphate			5876	NA		Others		
+leuktrA4	leukotriene a4	C00909	2	Leukotriene A4	Lipids	5280383	4164	HMDB01337	Organic Compounds	Lipids	Eicosanoids	Leukotrienes
+dna	dna	C00039	2	DNA			3341	NA		Others		
+HC02223	mitoACP	C02378	3	6-Aminohexanoate		564	5420	HMDB01901	Organic Compounds	Lipids	Fatty Acids and Conjugates	Amino Fatty Acids
+HC00229	Isomaltose	C00252	1	Isomaltose	Carbohydrates	439193	3551	HMDB02923	Organic Compounds	Carbohydrates and Carbohydrate Conjugates	Disaccharides	Dihexoses
+4fumacac	4_fumarylacetoacetate	C01061	1	4-Fumarylacetoacetate		5280398	4300	HMDB01268	Organic Compounds	Organic Acids and Derivatives	Keto-Acids and Derivatives	Medium-chain Keto Acids and Derivatives
+selmeth	selenomethionine	C05335	2	L-Selenomethionine		105024	7713	HMDB03966	Organic Compounds	Amino Acids, Peptides, and Analogues	Amino Acids and Derivatives	Alpha Amino Acids and Derivatives
+5dpmev	(r)_5_diphosphomevalonate	C01143	2	(R)-5-Diphosphomevalonate		439418	4374	HMDB01090	Organic Compounds	Aliphatic Acyclic Compounds	Organic Oxoanionic Compounds	Organic Pyrophosphates
+3mb2coa	3_methylbut_2_enoyl_coa	C03069	1	3-Methylcrotonyl-CoA		9549326	5969	HMDB01493	Organic Compounds	Lipids	Fatty Acid Esters	Acyl CoAs
+2pglyc	2_phosphoglycolate	C00988	8	2-Phosphoglycolate		529	4234	HMDB00816	Organic Compounds	Others	Organic Phosphoric Acids and Derivatives	Organophosphate Esters
+mi1345p	1d_myo_inositol 1,3,4,5_tetrakisphosphate	C01272	3	1D-myo-Inositol 1,3,4,5-tetrakisphosphate		107758	4491	HMDB01059	Organic Compounds	Others	Cyclic Alcohols and Derivatives	Cyclitols and Derivatives
+mi13456p	1d_myo_inositol 1,3,4,5,6_pentakisphosphate	C01284	1	1D-myo-Inositol 1,3,4,5,6-pentakisphosphate		439468	4503	HMDB03529	Organic Compounds	Others	Cyclic Alcohols and Derivatives	Cyclitols and Derivatives
+mi134p	1d_myo_inositol 1,3,4_trisphosphate	C01243	1	1D-myo-Inositol 1,3,4-trisphosphate		439455	4464	HMDB01143	Organic Compounds	Others	Cyclic Alcohols and Derivatives	Cyclitols and Derivatives
+mi1p_D	1d_myo_inositol 1_phosphate	C01177	1	Inositol 1-phosphate		107737	4404	HMDB02985	Organic Compounds	Others	Cyclic Alcohols and Derivatives	Cyclitols and Derivatives
+glutcoa	glutaryl_coa	C00527	3	Glutaryl-CoA		3081383	3810	HMDB01339	Organic Compounds	Lipids	Fatty Acid Esters	Acyl CoAs
+mmcoa_R	(r)_methylmalonyl_coa	C01213	1	(R)-Methylmalonyl-CoA		449534	4435	HMDB02255	Organic Compounds	Lipids	Fatty Acid Esters	Acyl CoAs
+r1p	alpha_d_ribose 1_phosphate	C00620	2	alpha-D-Ribose 1-phosphate		439236	3894	HMDB01489	Organic Compounds	Carbohydrates and Carbohydrate Conjugates	Monosaccharides	Pentoses
+mlthf	5,10_methylenetetrahydrofolate	C00143	2	5,10-Methylenetetrahydrofolate		439175	3443	HMDB01533	Organic Compounds	Aromatic Cyclic Compounds	Pteridines and Derivatives	Pterins and Derivatives
+gd1a_hs	gd1a (homo sapiens)	C04927	1	N-Acetylneuraminyl-D-galactosyl-N-acetyl-D-galactosaminyl-(N-acetylneuraminyl)-D-galactosyl-D-glucosylceramide			7473	NA		Others		
+gt1b_hs	gt1b (homo sapiens)	C06140	1	GT1b			8396	NA		Others		
+gd1b_hs	gd1b (homo sapiens)	C06141	1	GD1b			8397	NA		Others		
+gm1b_hs	gm1b (homo sapiens)	G00125	1	GM1b			NA	NA		Others		
+nicrnt	nicotinate d_ribonucleotide	C01185	1	Nicotinate D-ribonucleotide		121992	4411	HMDB01132	Organic Compounds	Nucleosides, Nucleotides, and Analogues	Pyridine Nucleotides	Nicotinic Acid Nucleotides
+glucys	gamma_l_glutamyl_l_cysteine	C00669	1	gamma-L-Glutamyl-L-cysteine		123938	3938	HMDB01049	Organic Compounds	Amino Acids, Peptides, and Analogues	Amino Acids and Derivatives	Alpha Amino Acids and Derivatives
+cgly	cys_gly	C01419	2	Cys-Gly		439498	4606	HMDB00078	Organic Compounds	Amino Acids, Peptides, and Analogues	Peptides	N/A
+perillyl	perillyl alcohol	C02452	1	Perillyl alcohol		369312	5472	HMDB03634	Organic Compounds	Lipids	Prenol Lipids	Monoterpenes
+HC02214	prostaglandin-f1alpha	C06475	2	Prostaglandin F1alpha	Lipids	5280939	8707	HMDB02685	Organic Compounds	Lipids	Eicosanoids	Prostaglandins and related compounds
+C02356	(S)-2-Aminobutanoate	C02356	1	(S)-2-Aminobutanoate		80283	5403	HMDB00452	Organic Compounds	Amino Acids, Peptides, and Analogues	Amino Acids and Derivatives	Alpha Amino Acids and Derivatives
+nifedipine	nifedipine	C07266	4	Nifedipine		4485	9475	HMDB15247	Organic Compounds	Aromatic Cyclic Compounds	Hydropyridines	Dihydropyridines
+orn_D	d_ornithine	C00515	1	D-Ornithine		71082	3798	HMDB03374	Organic Compounds	Amino Acids, Peptides, and Analogues	Amino Acids and Derivatives	Alpha Amino Acids and Derivatives
+13dampp	1,3_diaminopropane	C00986	6	1,3-Diaminopropane		428	4233	HMDB00002	Organic Compounds	Aliphatic Acyclic Compounds	Alkylamines	Polyamines
+acorn	n2_acetyl_l_ornithine	C00437	1	N-Acetylornithine		439232	3726	HMDB03357	Organic Compounds	Amino Acids, Peptides, and Analogues	Amino Acids and Derivatives	Alpha Amino Acids and Derivatives
+csn	cytosine	C00380	1	Cytosine	Nucleic acids	597	3670	HMDB00630	Organic Compounds	Aromatic Cyclic Compounds	Diazines	Pyrimidines and Pyrimidine Derivatives
+prgnlone	pregnenolone	C01953	5	Pregnenolone	Steroids!Hormones and transmitters	8955	5056	HMDB00253	Organic Compounds	Lipids	Steroids and Steroid Derivatives	Gluco/mineralocorticoids, Progestogins and Derivatives
+17ahprgnlone	17alpha_hydroxypregnenolone	C05138	2	17alpha-Hydroxypregnenolone	Hormones and transmitters	440573	7557	HMDB00363	Organic Compounds	Lipids	Steroids and Steroid Derivatives	Gluco/mineralocorticoids, Progestogins and Derivatives
+xol7ah2	3alpha,7alpha_dihydroxy_5beta_cholestane	C05452	1	3alpha,7alpha-Dihydroxy-5beta-cholestane		3080603	7814	HMDB06893	Organic Compounds	Lipids	Steroids and Steroid Derivatives	Cholesterols and Derivatives
+xoltriol	3alpha,7alpha,12alpha_trihydroxy_5beta_cholestane	C05454	1	3alpha,7alpha,12alpha-Trihydroxy-5beta-cholestane		160520	7816	HMDB01457	Organic Compounds	Lipids	Steroids and Steroid Derivatives	Cholesterols and Derivatives
+tdchola	taurochenodeoxycholate	C05465	2	Taurochenodeoxycholate		387316	7825	HMDB00951	Organic Compounds	Lipids	Steroids and Steroid Derivatives	Bile Acids, Alcohols and Derivatives
+C01601	nonanoate	C01601	2	Nonanoic acid		8158	4755	HMDB00847	Organic Compounds	Lipids	Fatty Acids and Conjugates	Straight Chain Fatty Acids
+estrones	estrone 3_sulfate	C02538	4	Estrone 3-sulfate	Hormones and transmitters	3001028	5545	HMDB01425	Organic Compounds	Lipids	Steroids and Steroid Derivatives	Sulfated Steroids
+CE5536	adrenochrome	HMDB12884	2	Adrenochrome		158980	5898	HMDB12884	Organic Compounds	Others	Benzoquinones	N/A
+hpyr	hydroxypyruvate	C00168	2	Hydroxypyruvate		964	3468	HMDB01352	Organic Compounds	Organic Acids and Derivatives	Hydroxy Acids and Derivatives	Beta Hydroxy Acids and Derivatives
+3spyr	3_sulfopyruvate	C05528	1	3-Sulfopyruvate		440717	7871	HMDB04045	Organic Compounds	Organic Acids and Derivatives	Keto-Acids and Derivatives	Alpha Keto-Acids and Derivatives
+3php	3_phosphohydroxypyruvate	C03232	1	3-Phosphonooxypyruvate		105	6103	HMDB01024	Organic Compounds	Organic Acids and Derivatives	Keto-Acids and Derivatives	Alpha Keto-Acids and Derivatives
+leuktrC4	leukotriene c4	C02166	2	Leukotriene C4	Lipids	5280493	5241	HMDB01198	Organic Compounds	Amino Acids, Peptides, and Analogues	Peptides	N/A
+s7p	sedoheptulose 7_phosphate	C05382	2	Sedoheptulose 7-phosphate		165007	7756	NA		Others		
+prostgh2	prostaglandin h2	C00427	2	Prostaglandin H2	Lipids	445049	3717	HMDB01381	Organic Compounds	Lipids	Eicosanoids	Prostaglandins and related compounds
+CE6234	prostaglandin H1	HMDB13041	1	Prostaglandin H1		3224815	50921242	HMDB13041	Organic Compounds	Lipids	Eicosanoids	Prostaglandins and related compounds
+pgp_hs	phosphatidyl glycerol phosphate (homo sapiens)	C03892	1	Phosphatidylglycerophosphate			6624	NA		Others		
+spc_hs	sphingosylphosphorylcholine (homo sapiens)	C03640	1	Sphingosyl-phosphocholine		5280613	6422	HMDB06482	Organic Compounds	Lipids	Sphingolipids	Lysosphingomyelins and Lysoglycosphingolipids
+pail45p_hs	phosphatidylinositol 4,5_bisphosphate (homo sapiens)	C04637	1	1-Phosphatidyl-D-myo-inositol 4,5-bisphosphate			7226	NA		Others		
+pail4p_hs	1_phosphatidyl_1d_myo_inositol 4_phosphate (homo sapiens)	C01277	1	1-Phosphatidyl-1D-myo-inositol 4-phosphate			4496	NA		Others		
+ha	hyaluronan	C00518	3	Hyaluronate			3801	HMDB02061	Organic Compounds	Carbohydrates and Carbohydrate Conjugates	Disaccharides	Dihexoses
+pnto_R	(r)_pantothenate	C00864	1	Pantothenate	Vitamins and Cofactors	6613	4121	HMDB00210	Organic Compounds	Aliphatic Acyclic Compounds	Alkylamines	1,3-Aminoalcohols
+pan4p	pantetheine 4_phosphate	C01134	2	Pantetheine 4'-phosphate		115254	4365	HMDB01416	Organic Compounds	Others	Organic Phosphoric Acids and Derivatives	Organophosphate Esters
+4ppcys	n_((r)_4_phosphopantothenoyl)_l_cysteine	C04352	1	(R)-4'-Phosphopantothenoyl-L-cysteine		440304	7001	HMDB01117	Organic Compounds	Amino Acids, Peptides, and Analogues	Peptidomimetics	Hybrid Peptides
+dheas	dehydroepiandrosterone sulfate	C04555	1	Dehydroepiandrosterone sulfate	Hormones and transmitters	12594	7160	HMDB01032	Organic Compounds	Lipids	Steroids and Steroid Derivatives	Sulfated Steroids
+prgnlones	pregnenolone sulfate	C18044	1	3beta-Hydroxypregn-5-en-20-one sulfate		105074	96024264	NA		Others		
+sphs1p	sphingosine 1_phosphate	C06124	1	Sphingosine 1-phosphate		5283560	8381	HMDB00277	Organic Compounds	Lipids	Sphingolipids	N/A
+sebacid	sebacicacid	C08277	2	Sebacic acid		5192	10475	HMDB00792	Organic Compounds	Organic Acids and Derivatives	Carboxylic Acids and Derivatives	Dicarboxylic Acids and Derivatives
+pppg9	protoporphyrinogen ix	C01079	1	Protoporphyrinogen IX		121893	4317	HMDB01097	Organic Compounds	Aromatic Cyclic Compounds	Tetrapyrroles and Derivatives	Porphyrins
+q10	ubiquinone_10	C11378	1	Ubiquinone-10	Vitamins and Cofactors	5281915	13552	HMDB01072	Organic Compounds	Lipids	Prenol Lipids	Quinone and Hydroquinone Lipids
+g3pc	sn_glycero_3_phosphocholine	C00670	1	sn-Glycero-3-phosphocholine		439285	3939	HMDB00086	Organic Compounds	Lipids	Glycerophospholipids	Glycerophosphocholines
+aprut	n_acetylputrescine	C02714	1	N-Acetylputrescine		122356	5677	HMDB02064	Organic Compounds	Organic Acids and Derivatives	Carboxylic Acids and Derivatives	Carboxylic Acid Derivatives
+CE1162	vitamin A2	HMDB13117	1	Vitamin A2		4369446	6436043	HMDB13117	Organic Compounds	Lipids	Prenol Lipids	Retinoids
+3ump	3-UMP(2-)	C01368	2	3'-UMP		101543	4567	HMDB60282	Organic Compounds	Others	Carbohydrates and Carbohydrate Conjugates	Monosaccharides
+aflatoxin	aflatoxin b1	C06800	1	Aflatoxin B1		14403	9019	HMDB06552	Organic Compounds	Aromatic Cyclic Compounds	Aflatoxins	Difurocoumarocyclopentenone Series
+ksi	keratan sulfate i	C00573	1	Keratan sulfate			3852	HMDB01165	Organic Compounds	Carbohydrates and Carbohydrate Conjugates	Tetrasaccharides	Tetrahexoses
+Lpipecol	l_pipecolate	C00408	2	L-Pipecolate		439227	3698	HMDB00070	Organic Compounds	Amino Acids, Peptides, and Analogues	Amino Acids and Derivatives	Alpha Amino Acids and Derivatives
+saccrp_L	l_saccharopine	C00449	2	N6-(L-1,3-Dicarboxypropyl)-L-lysine		160556	3737	HMDB00279	Organic Compounds	Amino Acids, Peptides, and Analogues	Amino Acids and Derivatives	Alpha Amino Acids and Derivatives
+mhista	n_methylhistamine	C05127	1	N-Methylhistamine		3614	7548	HMDB00898	Organic Compounds	Aromatic Cyclic Compounds	Azoles	Imidazoles
+selnp	selenophosphate	C05172	1	Selenophosphoric acid		56928068	7583	HMDB03840	Inorganic Compounds	Others	Non-metal Oxoanionic Compounds	Non-metal Phosphites
+3hpp	3_hydroxypropanoate	C01013	1	3-Hydroxypropanoate	Organic acids	68152	4258	HMDB00700	Organic Compounds	Organic Acids and Derivatives	Hydroxy Acids and Derivatives	Beta Hydroxy Acids and Derivatives
+sph1p	sphinganine 1_phosphate	C01120	1	Sphinganine 1-phosphate		644260	4351	HMDB01383	Organic Compounds	Lipids	Sphingolipids	N/A
+lald_D	d_lactaldehyde	C00937	1	(R)-Lactaldehyde		439350	4189	HMDB06458	Organic Compounds	Aliphatic Acyclic Compounds	Alcohols and Polyols	Secondary Alcohols
+thmtp	thiamin triphosphate	C03028	1	Thiamin triphosphate		511	5933	HMDB01512	Organic Compounds	Aromatic Cyclic Compounds	Thiamines	Thiamine Phosphates
+eryth	l_erythrulose	C02045	1	L-Erythrulose	Carbohydrates	5460032	5134	HMDB06293	Organic Compounds	Carbohydrates and Carbohydrate Conjugates	Monosaccharides	Tetroses
+2dr1p	2_deoxy_d_ribose 1_phosphate	C00672	1	2-Deoxy-D-ribose 1-phosphate		5460448	3941	HMDB01351	Organic Compounds	Carbohydrates and Carbohydrate Conjugates	Monosaccharides	Pentoses
+drib	deoxyribose	C01801	1	Deoxyribose	Carbohydrates	9828112	4927	HMDB03224	Organic Compounds	Carbohydrates and Carbohydrate Conjugates	Monosaccharides	Pentoses
+C05953	Prostaglandin A2	C05953	1	Prostaglandin A2	Lipids	5280880	8237	HMDB02752	Organic Compounds	Lipids	Eicosanoids	Prostaglandins and related compounds
+txa2	thromboxane a2	C02198	1	Thromboxane A2	Lipids	5280497	5266	HMDB01452	Organic Compounds	Lipids	Eicosanoids	Thromboxanes
+15HPET	15_hydroperoxyeicosatetraenoic acid	C05966	1	15(S)-HPETE		5280893	8250	HMDB04244	Organic Compounds	Lipids	Eicosanoids	Hydroperoxyeicosatetraenoic Acids
+taxol	paclitaxel	C07394	3	Paclitaxel		441276	9598	HMDB15360	Organic Compounds	Lipids	Prenol Lipids	Diterpenes
+34dhpac	3,4_dihydroxyphenylacetaldehyde	C04043	1	3,4-Dihydroxyphenylacetaldehyde		119219	6744	HMDB03791	Organic Compounds	Aromatic Cyclic Compounds	Phenylacetaldehydes	N/A
+CE2172	6,7-dihydroxy-1,2,3,4-tetrahydroisoquinoline	HMDB06044	1	Norsalsolinol			36937	HMDB06044	Organic Compounds	Aromatic Cyclic Compounds	Isoquinolines	N/A
+3mox4hoxm	3_methoxy_4_hydroxymandelate	C05584	1	3-Methoxy-4-hydroxymandelate		1245	7910	HMDB00291	Organic Compounds	Aromatic Cyclic Compounds	Phenols and Derivatives	Tyrosols and Derivatives
+normete_L	l_normetanephrine	C05589	1	L-Normetanephrine		688100	7914	HMDB00819	Organic Compounds	Aromatic Cyclic Compounds	Phenols and Derivatives	Benzenediols
+CE2176	3-O-methyldopa	HMDB01434	1	3-Methoxytyrosine		451133	1670	HMDB01434	Organic Compounds	Amino Acids, Peptides, and Analogues	Amino Acids and Derivatives	Alpha Amino Acids and Derivatives
+cmpacna	cmp_n_acetylneuraminate	C00128	1	CMP-N-acetylneuraminate		448209	3428	HMDB01176	Organic Compounds	Carbohydrates and Carbohydrate Conjugates	Sugar Acids and Derivatives	Sugar Amino Acids and Derivatives
+CE1918	5-hydroxytryptophol	HMDB01855	1	5-Hydroxytryptophol		5362124	9061	HMDB01855	Organic Compounds	Aromatic Cyclic Compounds	Indoles	N/A
+uppg3	uroporphyrinogen iii	C01051	2	Uroporphyrinogen III		1179	4293	HMDB01086	Organic Compounds	Aromatic Cyclic Compounds	Tetrapyrroles and Derivatives	Corrinoids
+C05767	Uroporphyrin I	C05767	1	Uroporphyrin I		72424	8062	HMDB00936	Organic Compounds	Aromatic Cyclic Compounds	Tetrapyrroles and Derivatives	Porphyrins
+C02469	Uroporphyrin III	C02469	1	Uroporphyrin III		72423	5484	HMDB00916	Organic Compounds	Aromatic Cyclic Compounds	Tetrapyrroles and Derivatives	Corrinoids
+C05769	Coproporphyrin I	C05769	1	Coproporphyrin I		68271	8064	HMDB00643	Organic Compounds	Aromatic Cyclic Compounds	Tetrapyrroles and Derivatives	Porphyrins
+C05770	Coproporphyrin III	C05770	1	Coproporphyrin III		114935	8065	HMDB00570	Organic Compounds	Aromatic Cyclic Compounds	Tetrapyrroles and Derivatives	Porphyrins
+cholcoa	choloyl_coa	C01794	1	Choloyl-CoA		71448889	4921	HMDB01374	Organic Compounds	Lipids	Fatty Acid Esters	Acyl CoAs
+thcholstoic	3alpha,7alpha,12alpha_trihydroxy_5beta_cholestanoate	C04722	1	3alpha,7alpha,12alpha-Trihydroxy-5beta-cholestanoate		440460	7294	HMDB03873	Organic Compounds	Lipids	Steroids and Steroid Derivatives	Cholesterols and Derivatives
+thrnt	l_threonate	C01620	1	Threonate		5460407	4772	HMDB00943	Organic Compounds	Carbohydrates and Carbohydrate Conjugates	Monosaccharides	Tetroses
+mepi	metanephrine	C05588	2	L-Metanephrine		688084	7913	HMDB04063	Organic Compounds	Aromatic Cyclic Compounds	Phenols and Derivatives	Benzenediols
+trdrd	reduced thioredoxin	C00342	3	Thioredoxin			3635	NA		Others		
+mi3p_D	1d_myo_inositol 3_phosphate	C04006	1	1D-myo-Inositol 3-phosphate		440194	6716	HMDB00213	Organic Compounds	Others	Cyclic Alcohols and Derivatives	Cyclitols and Derivatives
+5g2oxpt	5_guanidino_2_oxopentanoate	C03771	1	5-Guanidino-2-oxopentanoate		558	6525	HMDB04225	Organic Compounds	Lipids	Fatty Acids and Conjugates	Amino Fatty Acids
+aprgstrn	20alpha_hydroxyprogesterone	C04042	3	20alpha-Hydroxy-4-pregnen-3-one		8956	6743	HMDB03069	Organic Compounds	Lipids	Steroids and Steroid Derivatives	Gluco/mineralocorticoids, Progestogins and Derivatives
+17ahprgstrn	17alpha_hydroxyprogesterone	C01176	2	17alpha-Hydroxyprogesterone	Hormones and transmitters	6238	4403	HMDB00374	Organic Compounds	Lipids	Steroids and Steroid Derivatives	Gluco/mineralocorticoids, Progestogins and Derivatives
+lanost	lanosterol	C01724	3	Lanosterol		246983	4861	HMDB01251	Organic Compounds	Lipids	Prenol Lipids	Triterpenes
+11docrtsl	11_deoxycortisol	C05488	1	11-Deoxycortisol	Hormones and transmitters	440707	7847	HMDB00015	Organic Compounds	Lipids	Steroids and Steroid Derivatives	Gluco/mineralocorticoids, Progestogins and Derivatives
+CE2211	allopregnanolone	C13712	1	Allopregnanolone		92786	586301	HMDB01449	Organic Compounds	Lipids	Steroids and Steroid Derivatives	Gluco/mineralocorticoids, Progestogins and Derivatives
+lthstrl	5alpha_cholest_7_en_3beta_ol	C01189	1	Lathosterol		65728	4415	HMDB01170	Organic Compounds	Lipids	Steroids and Steroid Derivatives	Cholesterols and Derivatives
+HC01943	Prothrombin	C01541	3	Warfarin		54678486	4702	HMDB01935	Organic Compounds	Aromatic Cyclic Compounds	Benzopyrans	Coumarins and Derivatives
+mercppyr	mercaptopyruvate	C00957	2	Mercaptopyruvate		98	4208	HMDB01368	Organic Compounds	Organic Acids and Derivatives	Keto-Acids and Derivatives	Alpha Keto-Acids and Derivatives
+mercplac	3_mercaptolactate	C05823	1	3-Mercaptolactate		9833951	8118	HMDB02127	Organic Compounds	Organic Acids and Derivatives	Hydroxy Acids and Derivatives	Alpha Hydroxy Acids and Derivatives
+Sfglutth	s_formylglutathione	C01031	1	S-Formylglutathione		189122	4274	HMDB01550	Organic Compounds	Amino Acids, Peptides, and Analogues	Peptides	N/A
+dodecanac	Dodecanedioic acid	C02678	1	Dodecanedioic acid		12736	5648	HMDB00623	Organic Compounds	Organic Acids and Derivatives	Carboxylic Acids and Derivatives	Dicarboxylic Acids and Derivatives
+selcys	selenocysteine	C05688	1	L-Selenocysteine	Peptides	25076	7995	HMDB03288	Organic Compounds	Amino Acids, Peptides, and Analogues	Amino Acids and Derivatives	Alpha Amino Acids and Derivatives
+ficytC	ferricytochrome c	C00125	1	Ferricytochrome c			3425	NA		Others		
+leuktrB4	leukotriene b4	C02165	2	Leukotriene B4	Lipids	5280492	5240	HMDB01085	Organic Compounds	Lipids	Eicosanoids	Leukotrienes
+CE7083	leukotriene B5	HMDB05073	1	Leukotriene B5		3758768	5283125	HMDB05073	Organic Compounds	Lipids	Eicosanoids	Hydroxyeicosapentaenoic Acids
+C05109	24,25-Dihydrolanosterol	C05109	1	24,25-Dihydrolanosterol		440560	7535	HMDB06839	Organic Compounds	Lipids	Prenol Lipids	Triterpenes
+HC01162	(2R,4S,5R,6R)-2-[({[(2R,3S,4R,5R)-5-(4-amino-2-oxo-1,2-dihydropyrimidin-1-yl)-3,4-dihydroxyoxolan-2-yl]methoxy}phosphinato)oxy]-4-hydroxy-5-(2-hydroxyacetamido)-6-[(1R,2R)-1,2,3-trihydroxypropyl]oxane-2-carboxylate	C03691	1	CMP-N-glycoloylneuraminate		656501	6465	HMDB12206	Organic Compounds	Carbohydrates and Carbohydrate Conjugates	Sugar Acids and Derivatives	Sugar Amino Acids and Derivatives
+msa	malonate semialdehyde	C00222	1	3-Oxopropanoate	Organic acids	868	3522	HMDB11111	Organic Compounds	Organic Acids and Derivatives	Carboxylic Acids and Derivatives	Carboxylic Acid Derivatives
+ivcoa	isovaleryl_coa	C02939	1	3-Methylbutanoyl-CoA		165435	5858	HMDB01113	Organic Compounds	Lipids	Fatty Acid Esters	Acyl CoAs
+34hpl	3_(4_hydroxyphenyl)lactate	C03672	1	3-(4-Hydroxyphenyl)lactate		9378	6448	HMDB00755	Organic Compounds	Aromatic Cyclic Compounds	Benzyl Alcohols and Derivatives	Phenylpyruvic Acid Derivatives
+CE4888	dopaminochrome	C05578	1	5,6-Dihydroxyindole		114683	7904	HMDB04058	Organic Compounds	Aromatic Cyclic Compounds	Indoles	N/A
+HC00682	S-Acetyldihydrolipoamide	C01136	1	S-Acetyldihydrolipoamide		1076	4367	HMDB01526	Organic Compounds	Aliphatic Acyclic Compounds	Dithiolanes	Lipoamides
+phaccoa	phenylacetyl_coa	C00582	1	Phenylacetyl-CoA		165620	3861	HMDB06503	Organic Compounds	Lipids	Fatty Acid Esters	Acyl CoAs
+noncoa	nonanoylcoa	C01942	2	Nonanoyl-CoA		193520	5046	HMDB13028	Organic Compounds	Lipids	Fatty Acid Esters	Acyl CoAs
+HC01408	3-Oxohexanoyl-CoA	C05269	1	3-Oxohexanoyl-CoA		3082152	7656	HMDB03943	Organic Compounds	Lipids	Fatty Acid Esters	Acyl CoAs
+crn	l_carnitine	C00318	1	L-Carnitine		10917	3612	NA		Others		
+leugly	Leucylglycine	HMDB28929	1	Leucyl-Glycine			NA	HMDB28929	Organic Compounds	Amino Acids, Peptides, and Analogues	Peptides	N/A
+glypro	Glycylproline	HMDB00721	1	Glycylproline		10459	79101	HMDB00721	Organic Compounds	Amino Acids, Peptides, and Analogues	Peptides	N/A
+glyphe	Glycylphenylalanine	HMDB28848	1	Glycyl-Phenylalanine			NA	HMDB28848	Organic Compounds	Amino Acids, Peptides, and Analogues	Peptides	N/A
+mma	methylamine	C00218	2	Methylamine		6329	3518	HMDB00164	Organic Compounds	Aliphatic Acyclic Compounds	Alkylamines	N/A
+C01836	Neurotensin	C01836	2	Neurotensin			4955	NA		Others		
+elaid	elaidic acid	C01712	1	(9E)-Octadecenoic acid	Lipids	637517	4850	NA		Others		
+CE5797	neuromedin N	C15868	1	Neuromedin N			47205188	NA		Others		
+CE5786	kinetensin	C15872	1	Kinetensin			47205192	NA		Others		
+CE5782	somatostatin	HMDB13072	1	Somatostatin		11370435	53481605	HMDB13072	Organic Compounds	Amino Acids, Peptides, and Analogues	Peptides	Cyclic Peptides
+leuktrD4	leukotriene d4	C05951	1	Leukotriene D4	Lipids	5280878	8235	HMDB03080	Organic Compounds	Amino Acids, Peptides, and Analogues	Peptides	N/A
+leuktrE4	leukotriene e4	C05952	1	Leukotriene E4	Lipids	5280879	8236	HMDB02200	Organic Compounds	Lipids	Eicosanoids	Leukotrienes
+rbt	ribitol	C00474	1	Ribitol		6912	3757	HMDB00508	Organic Compounds	Carbohydrates and Carbohydrate Conjugates	Sugar Alcohols	N/A
+abt	l_arabinitol	C00532	1	L-Arabitol		439255	3814	HMDB01851	Organic Compounds	Carbohydrates and Carbohydrate Conjugates	Sugar Alcohols	N/A
+galt	galactitol	C01697	1	Galactitol		11850	4837	HMDB00107	Organic Compounds	Lipids	Fatty Alcohols	N/A
