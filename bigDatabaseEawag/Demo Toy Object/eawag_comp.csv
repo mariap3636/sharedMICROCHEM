@@ -1,0 +1,15 @@
+c0840	CCCC(=O)C(C)C(=O)SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(O)(=O)OP(O)(=O)OC[C@H]1O[C@H]([C@H](O)[C@@H]1OP(O)(O)=O)n1cnc2c(N)ncnc12	2-Methyl-3-oxohexanoyl-CoA	1	C05269	0.979695	
+c0837	CCCCC(C)C(=O)SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(O)(=O)OP(O)(=O)OC[C@H]1O[C@H]([C@H](O)[C@@H]1OP(O)(O)=O)n1cnc2c(N)ncnc12	2-Methylhexanoyl-CoA	1	C05270	0.979346	
+c1153	CN1c2[nH]c(=O)n(C)c2C(=O)N(C)C1=O	1,3,7-Trimethyluric acid	1	C16361	1.0	
+c1101	Cn1c2[nH]c(=O)[nH]c2c(=O)n(C)c1=O	3,7-Dimethyluric acid	1	C16361	0.925466	
+c0097	Oc1ccccc1O	Catechol	1	C00090	1.0	C05060;C01785;C15571
+c0246	Oc1cccc(c1O)S([O-])(=O)=O	3-Sulfocatechol	1	C06336	1.0	
+c1254	O(c1ccccc1)c1ccccc1	Diphenyl ether	1	C07729	0.895425	
+c1559	O[C@H]1[C@H](O)C(=O)CO[C@@H]1COP([O-])([O-])=O	1,5-Anhydro-D-fructose-6-phosphate	1	C02965	0.878788	
+c1201	Oc1ccncc1	4-Hydroxypyridine	1	C02932	0.851852	
+c1212	[O-]C(=O)C(=O)CC=N	3-Formiminopyruvate	1	C00109	0.805556	
+c1437	CCOP([O-])([O-])=S	Ethylthiophosphate	1	C18401	0.803279	
+c1462	COP([O-])([O-])=O	Methylphosphate	1	C02405	0.774194	
+c1459	COP(=S)(OC)SC(CC([O-])=O)C([O-])=O	Malathion dicarboxylate	1	C07497	0.73913	
+c0730	O=[U++]=O.OP([O-])([O-])=O	Hydrogen uranyl phosphate	1	C13197	0.666667	
+c0985	NCCCCCC(=O)NCCCCCC(=O)NCCCCCC(=O)NCCCCCC([O-])=O	6-Aminohexanoate Tetramer	1		0.0	

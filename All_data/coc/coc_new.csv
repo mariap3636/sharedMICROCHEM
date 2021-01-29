@@ -1,0 +1,6 @@
+rxn	eawagCMPid1	eawagCMPid2	eawagENZid	expasyECnum	keggCMP1BestHit	keggCMP1alternatives	keggCMP2BestHit	keggCMP2alternatives
+r1798	c1565	c1566	e1212	3.1.1.84	C01416		C12448	
+r1799	c1566	c1567	e1210	3.1.1.-	C12448		C12449	
+r1800	c1567	c1568	e1209	5.1.-.-	C12449		C10858	
+r1801	c1568	c1569	e1211	6.2.1.-	C10858		C12450	
+r1802	c1569	c0131			C12450		C00011	
